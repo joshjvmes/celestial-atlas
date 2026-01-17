@@ -1,0 +1,8446 @@
+{
+  "metadata": {
+    "source": "Yale Bright Star Catalog (BSC5)",
+    "total_stars": 9096,
+    "bright_stars": 5023,
+    "named_stars": 18,
+    "anchor_date": "2025-04-03"
+  },
+  "gates": [
+    {
+      "id": 1,
+      "name": "The Breath of Collapse",
+      "anchors": []
+    },
+    {
+      "id": 2,
+      "name": "The Bridge of Becoming",
+      "anchors": [
+        {
+          "name": "Vega",
+          "data": {
+            "hr": 7001,
+            "name": "Vega",
+            "bayer": "Alp Lyr",
+            "ra": 279.2346,
+            "dec": 38.7836,
+            "magnitude": 0.03,
+            "spectral_type": "A0Va"
+          }
+        },
+        {
+          "name": "Regulus",
+          "data": {
+            "hr": 3982,
+            "name": "Regulus",
+            "bayer": "Alp Leo",
+            "ra": 152.0929,
+            "dec": 11.9672,
+            "magnitude": 1.35,
+            "spectral_type": "B7V"
+          }
+        },
+        {
+          "name": "Deneb",
+          "data": {
+            "hr": 7924,
+            "name": "Deneb",
+            "bayer": "Alp Cyg",
+            "ra": 310.3579,
+            "dec": 45.2803,
+            "magnitude": 1.25,
+            "spectral_type": "A2Ia"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Veil of Names",
+      "anchors": [
+        {
+          "name": "Pollux",
+          "data": {
+            "hr": 2990,
+            "name": "Pollux",
+            "bayer": "Bet Gem",
+            "ra": 116.3287,
+            "dec": 28.0261,
+            "magnitude": 1.14,
+            "spectral_type": "K0IIIb"
+          }
+        },
+        {
+          "name": "Spica",
+          "data": {
+            "hr": 5056,
+            "name": "Spica",
+            "bayer": "Alp Vir",
+            "ra": 201.2983,
+            "dec": -11.1614,
+            "magnitude": 0.98,
+            "spectral_type": "B1III-IV+B2V"
+          }
+        },
+        {
+          "name": "Arcturus",
+          "data": {
+            "hr": 5340,
+            "name": "Arcturus",
+            "bayer": "Alp Boo",
+            "ra": 213.9154,
+            "dec": 19.1825,
+            "magnitude": -0.04,
+            "spectral_type": "K1.5IIIFe-0.5"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "The Golden Rose",
+      "anchors": [
+        {
+          "name": "Capella",
+          "data": {
+            "hr": 1708,
+            "name": "Capella",
+            "bayer": "Alp Aur",
+            "ra": 79.1725,
+            "dec": 45.9981,
+            "magnitude": 0.08,
+            "spectral_type": "G5IIIe+G0III"
+          }
+        },
+        {
+          "name": "Betelgeuse",
+          "data": {
+            "hr": 2061,
+            "name": "Betelgeuse",
+            "bayer": "Alp Ori",
+            "ra": 88.7929,
+            "dec": 7.4069,
+            "magnitude": 0.5,
+            "spectral_type": "M1-2Ia-Iab"
+          }
+        },
+        {
+          "name": "Sirius",
+          "data": {
+            "hr": 2491,
+            "name": "Sirius",
+            "bayer": "Alp CMa",
+            "ra": 101.2871,
+            "dec": -16.7161,
+            "magnitude": -1.46,
+            "spectral_type": "A1Vm"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The World Tree",
+      "anchors": [
+        {
+          "name": "Aldebaran",
+          "data": {
+            "hr": 1457,
+            "name": "Aldebaran",
+            "bayer": "Alp Tau",
+            "ra": 68.98,
+            "dec": 16.5092,
+            "magnitude": 0.85,
+            "spectral_type": "K5+III"
+          }
+        },
+        {
+          "name": "Castor",
+          "data": {
+            "hr": 2890,
+            "name": "Castor",
+            "bayer": "Alp Gem",
+            "ra": 113.65,
+            "dec": 31.8886,
+            "magnitude": 2.88,
+            "spectral_type": "A2Vm"
+          }
+        },
+        {
+          "name": "Canopus",
+          "data": {
+            "hr": 2326,
+            "name": "Canopus",
+            "bayer": "Alp Car",
+            "ra": 95.9879,
+            "dec": -52.6958,
+            "magnitude": -0.72,
+            "spectral_type": "F0II"
+          }
+        },
+        {
+          "name": "Mirzam",
+          "data": {
+            "hr": 2294,
+            "name": "Mirzam",
+            "bayer": "Bet CMa",
+            "ra": 95.675,
+            "dec": -17.9558,
+            "magnitude": 1.98,
+            "spectral_type": "B1II-III"
+          }
+        },
+        {
+          "name": "Bellatrix",
+          "data": {
+            "hr": 1790,
+            "name": "Bellatrix",
+            "bayer": "Gam Ori",
+            "ra": 81.2829,
+            "dec": 6.3497,
+            "magnitude": 1.64,
+            "spectral_type": "B2III"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The Crystal Crown",
+      "anchors": [
+        {
+          "name": "Polaris",
+          "data": {
+            "hr": 424,
+            "name": "Polaris",
+            "bayer": "Alp UMi",
+            "ra": 37.9529,
+            "dec": 89.2642,
+            "magnitude": 2.02,
+            "spectral_type": "F7:Ib-II"
+          }
+        },
+        {
+          "name": "Deneb",
+          "data": {
+            "hr": 7924,
+            "name": "Deneb",
+            "bayer": "Alp Cyg",
+            "ra": 310.3579,
+            "dec": 45.2803,
+            "magnitude": 1.25,
+            "spectral_type": "A2Ia"
+          }
+        },
+        {
+          "name": "Vega",
+          "data": {
+            "hr": 7001,
+            "name": "Vega",
+            "bayer": "Alp Lyr",
+            "ra": 279.2346,
+            "dec": 38.7836,
+            "magnitude": 0.03,
+            "spectral_type": "A0Va"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "The Golden Harp",
+      "anchors": [
+        {
+          "name": "Sheliak",
+          "data": {
+            "hr": 7106,
+            "name": "Sheliak",
+            "bayer": "Bet Lyr",
+            "ra": 282.52,
+            "dec": 33.3628,
+            "magnitude": 3.45,
+            "spectral_type": "B8IIpe"
+          }
+        },
+        {
+          "name": "Chertan",
+          "data": {
+            "hr": 4359,
+            "name": "Chertan",
+            "bayer": "The Leo",
+            "ra": 168.56,
+            "dec": 15.4294,
+            "magnitude": 3.34,
+            "spectral_type": "A2V"
+          }
+        }
+      ]
+    }
+  ],
+  "named_stars": {
+    "Canopus": {
+      "hr": 2326,
+      "name": "Canopus",
+      "bayer": "Alp Car",
+      "ra": 95.9879,
+      "dec": -52.6958,
+      "magnitude": -0.72,
+      "spectral_type": "F0II"
+    },
+    "Polaris": {
+      "hr": 424,
+      "name": "Polaris",
+      "bayer": "Alp UMi",
+      "ra": 37.9529,
+      "dec": 89.2642,
+      "magnitude": 2.02,
+      "spectral_type": "F7:Ib-II"
+    },
+    "Eta Leonis": {
+      "hr": 3975,
+      "name": "Eta Leonis",
+      "bayer": "Eta Leo",
+      "ra": 151.8333,
+      "dec": 16.7628,
+      "magnitude": 3.52,
+      "spectral_type": "A0Ib"
+    },
+    "Aldebaran": {
+      "hr": 1457,
+      "name": "Aldebaran",
+      "bayer": "Alp Tau",
+      "ra": 68.98,
+      "dec": 16.5092,
+      "magnitude": 0.85,
+      "spectral_type": "K5+III"
+    },
+    "Pollux": {
+      "hr": 2990,
+      "name": "Pollux",
+      "bayer": "Bet Gem",
+      "ra": 116.3287,
+      "dec": 28.0261,
+      "magnitude": 1.14,
+      "spectral_type": "K0IIIb"
+    },
+    "Arcturus": {
+      "hr": 5340,
+      "name": "Arcturus",
+      "bayer": "Alp Boo",
+      "ra": 213.9154,
+      "dec": 19.1825,
+      "magnitude": -0.04,
+      "spectral_type": "K1.5IIIFe-0.5"
+    },
+    "Mirzam": {
+      "hr": 2294,
+      "name": "Mirzam",
+      "bayer": "Bet CMa",
+      "ra": 95.675,
+      "dec": -17.9558,
+      "magnitude": 1.98,
+      "spectral_type": "B1II-III"
+    },
+    "Spica": {
+      "hr": 5056,
+      "name": "Spica",
+      "bayer": "Alp Vir",
+      "ra": 201.2983,
+      "dec": -11.1614,
+      "magnitude": 0.98,
+      "spectral_type": "B1III-IV+B2V"
+    },
+    "Regulus": {
+      "hr": 3982,
+      "name": "Regulus",
+      "bayer": "Alp Leo",
+      "ra": 152.0929,
+      "dec": 11.9672,
+      "magnitude": 1.35,
+      "spectral_type": "B7V"
+    },
+    "Bellatrix": {
+      "hr": 1790,
+      "name": "Bellatrix",
+      "bayer": "Gam Ori",
+      "ra": 81.2829,
+      "dec": 6.3497,
+      "magnitude": 1.64,
+      "spectral_type": "B2III"
+    },
+    "Sirius": {
+      "hr": 2491,
+      "name": "Sirius",
+      "bayer": "Alp CMa",
+      "ra": 101.2871,
+      "dec": -16.7161,
+      "magnitude": -1.46,
+      "spectral_type": "A1Vm"
+    },
+    "Sheliak": {
+      "hr": 7106,
+      "name": "Sheliak",
+      "bayer": "Bet Lyr",
+      "ra": 282.52,
+      "dec": 33.3628,
+      "magnitude": 3.45,
+      "spectral_type": "B8IIpe"
+    },
+    "Chertan": {
+      "hr": 4359,
+      "name": "Chertan",
+      "bayer": "The Leo",
+      "ra": 168.56,
+      "dec": 15.4294,
+      "magnitude": 3.34,
+      "spectral_type": "A2V"
+    },
+    "Capella": {
+      "hr": 1708,
+      "name": "Capella",
+      "bayer": "Alp Aur",
+      "ra": 79.1725,
+      "dec": 45.9981,
+      "magnitude": 0.08,
+      "spectral_type": "G5IIIe+G0III"
+    },
+    "Deneb": {
+      "hr": 7924,
+      "name": "Deneb",
+      "bayer": "Alp Cyg",
+      "ra": 310.3579,
+      "dec": 45.2803,
+      "magnitude": 1.25,
+      "spectral_type": "A2Ia"
+    },
+    "Castor": {
+      "hr": 2890,
+      "name": "Castor",
+      "bayer": "Alp Gem",
+      "ra": 113.65,
+      "dec": 31.8886,
+      "magnitude": 2.88,
+      "spectral_type": "A2Vm"
+    },
+    "Betelgeuse": {
+      "hr": 2061,
+      "name": "Betelgeuse",
+      "bayer": "Alp Ori",
+      "ra": 88.7929,
+      "dec": 7.4069,
+      "magnitude": 0.5,
+      "spectral_type": "M1-2Ia-Iab"
+    },
+    "Vega": {
+      "hr": 7001,
+      "name": "Vega",
+      "bayer": "Alp Lyr",
+      "ra": 279.2346,
+      "dec": 38.7836,
+      "magnitude": 0.03,
+      "spectral_type": "A0Va"
+    }
+  },
+  "bright_stars": [
+    {
+      "hr": 3,
+      "name": "Psc",
+      "ra": 1.3337,
+      "dec": -5.7075,
+      "magnitude": 4.61,
+      "spectral_type": "K0IIIbCN-0.5"
+    },
+    {
+      "hr": 4,
+      "name": "Peg",
+      "ra": 1.425,
+      "dec": 13.3961,
+      "magnitude": 5.51,
+      "spectral_type": "G5III"
+    },
+    {
+      "hr": 5,
+      "name": null,
+      "ra": 1.5667,
+      "dec": 58.4367,
+      "magnitude": 5.96,
+      "spectral_type": "G5V"
+    },
+    {
+      "hr": 6,
+      "name": null,
+      "ra": 1.5792,
+      "dec": -49.075,
+      "magnitude": 5.7,
+      "spectral_type": "G1IV"
+    },
+    {
+      "hr": 7,
+      "name": "Cas",
+      "ra": 1.6104,
+      "dec": 64.1961,
+      "magnitude": 5.59,
+      "spectral_type": "B9III"
+    },
+    {
+      "hr": 12,
+      "name": null,
+      "ra": 1.945,
+      "dec": -22.5089,
+      "magnitude": 5.94,
+      "spectral_type": "A2Vp:"
+    },
+    {
+      "hr": 13,
+      "name": null,
+      "ra": 2.0146,
+      "dec": -33.5294,
+      "magnitude": 5.68,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 15,
+      "name": "And",
+      "ra": 2.0971,
+      "dec": 29.0906,
+      "magnitude": 2.06,
+      "spectral_type": "B8IVpMnHg"
+    },
+    {
+      "hr": 16,
+      "name": null,
+      "ra": 2.0725,
+      "dec": -8.8239,
+      "magnitude": 5.99,
+      "spectral_type": "gG8"
+    },
+    {
+      "hr": 21,
+      "name": "Cas",
+      "ra": 2.2946,
+      "dec": 59.1497,
+      "magnitude": 2.27,
+      "spectral_type": "F2III-IV"
+    },
+    {
+      "hr": 22,
+      "name": "Peg",
+      "ra": 2.26,
+      "dec": 18.2119,
+      "magnitude": 5.53,
+      "spectral_type": "G9III"
+    },
+    {
+      "hr": 24,
+      "name": "Scl",
+      "ra": 2.3375,
+      "dec": -27.9878,
+      "magnitude": 5.42,
+      "spectral_type": "F2V"
+    },
+    {
+      "hr": 25,
+      "name": "Phe",
+      "ra": 2.3529,
+      "dec": -45.7475,
+      "magnitude": 3.88,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 26,
+      "name": "Psc",
+      "ra": 2.5096,
+      "dec": 11.1456,
+      "magnitude": 5.51,
+      "spectral_type": "B9Vn"
+    },
+    {
+      "hr": 27,
+      "name": "And",
+      "ra": 2.5804,
+      "dec": 46.0722,
+      "magnitude": 5.03,
+      "spectral_type": "F2II"
+    },
+    {
+      "hr": 29,
+      "name": null,
+      "ra": 2.5783,
+      "dec": -5.2486,
+      "magnitude": 5.84,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 30,
+      "name": "Oct",
+      "ra": 2.5087,
+      "dec": -82.2239,
+      "magnitude": 5.28,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 31,
+      "name": null,
+      "ra": 2.6783,
+      "dec": -12.58,
+      "magnitude": 5.85,
+      "spectral_type": "K0IV"
+    },
+    {
+      "hr": 33,
+      "name": "Cet",
+      "ra": 2.8163,
+      "dec": -15.4681,
+      "magnitude": 4.89,
+      "spectral_type": "F7V"
+    },
+    {
+      "hr": 34,
+      "name": "Scl",
+      "ra": 2.8933,
+      "dec": -27.7997,
+      "magnitude": 5.41,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 35,
+      "name": "Scl",
+      "ra": 2.9333,
+      "dec": -35.1331,
+      "magnitude": 5.25,
+      "spectral_type": "F4V"
+    },
+    {
+      "hr": 37,
+      "name": null,
+      "ra": 3.0417,
+      "dec": -17.9383,
+      "magnitude": 5.25,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 39,
+      "name": "Peg",
+      "ra": 3.3092,
+      "dec": 15.1836,
+      "magnitude": 2.83,
+      "spectral_type": "B2IV"
+    },
+    {
+      "hr": 41,
+      "name": "And",
+      "ra": 3.3783,
+      "dec": 41.0353,
+      "magnitude": 5.72,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 42,
+      "name": null,
+      "ra": 3.4254,
+      "dec": -26.0219,
+      "magnitude": 5.94,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 45,
+      "name": "Peg",
+      "ra": 3.6508,
+      "dec": 20.2067,
+      "magnitude": 4.8,
+      "spectral_type": "M2+III"
+    },
+    {
+      "hr": 46,
+      "name": null,
+      "ra": 3.615,
+      "dec": -7.7806,
+      "magnitude": 5.12,
+      "spectral_type": "M3+III"
+    },
+    {
+      "hr": 47,
+      "name": null,
+      "ra": 3.3308,
+      "dec": -84.9942,
+      "magnitude": 5.77,
+      "spectral_type": "M0-1III"
+    },
+    {
+      "hr": 48,
+      "name": "Cet",
+      "ra": 3.66,
+      "dec": -18.9328,
+      "magnitude": 4.44,
+      "spectral_type": "M3III"
+    },
+    {
+      "hr": 50,
+      "name": "Psc",
+      "ra": 3.745,
+      "dec": 8.8208,
+      "magnitude": 5.79,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 51,
+      "name": null,
+      "ra": 3.7271,
+      "dec": -9.5697,
+      "magnitude": 5.75,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 57,
+      "name": null,
+      "ra": 4.0371,
+      "dec": -31.4464,
+      "magnitude": 5.67,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 60,
+      "name": null,
+      "ra": 4.2379,
+      "dec": 61.5333,
+      "magnitude": 5.74,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 62,
+      "name": null,
+      "ra": 4.2879,
+      "dec": 47.9475,
+      "magnitude": 5.89,
+      "spectral_type": "B7III"
+    },
+    {
+      "hr": 63,
+      "name": "And",
+      "ra": 4.2729,
+      "dec": 38.6817,
+      "magnitude": 4.61,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 68,
+      "name": "And",
+      "ra": 4.5821,
+      "dec": 36.7853,
+      "magnitude": 4.52,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 71,
+      "name": null,
+      "ra": 4.6596,
+      "dec": 31.5172,
+      "magnitude": 5.87,
+      "spectral_type": "A0IV"
+    },
+    {
+      "hr": 74,
+      "name": "Cet",
+      "ra": 4.8571,
+      "dec": -8.8239,
+      "magnitude": 3.56,
+      "spectral_type": "K1.5III"
+    },
+    {
+      "hr": 77,
+      "name": "Tuc",
+      "ra": 5.0179,
+      "dec": -64.8747,
+      "magnitude": 4.23,
+      "spectral_type": "F9V"
+    },
+    {
+      "hr": 78,
+      "name": null,
+      "ra": 5.1017,
+      "dec": 30.9358,
+      "magnitude": 5.9,
+      "spectral_type": "B7V"
+    },
+    {
+      "hr": 79,
+      "name": null,
+      "ra": 5.1896,
+      "dec": 32.9114,
+      "magnitude": 5.79,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 80,
+      "name": "Psc",
+      "ra": 5.1496,
+      "dec": 8.1903,
+      "magnitude": 5.37,
+      "spectral_type": "gK3"
+    },
+    {
+      "hr": 82,
+      "name": "And",
+      "ra": 5.2804,
+      "dec": 37.9686,
+      "magnitude": 5.18,
+      "spectral_type": "F5III"
+    },
+    {
+      "hr": 83,
+      "name": "Tuc",
+      "ra": 5.1625,
+      "dec": -69.625,
+      "magnitude": 5.51,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 84,
+      "name": "Scl",
+      "ra": 5.38,
+      "dec": -28.9817,
+      "magnitude": 5.18,
+      "spectral_type": "G5III"
+    },
+    {
+      "hr": 85,
+      "name": null,
+      "ra": 5.4429,
+      "dec": -20.0578,
+      "magnitude": 5.12,
+      "spectral_type": "M5IIe"
+    },
+    {
+      "hr": 87,
+      "name": null,
+      "ra": 5.3692,
+      "dec": -77.4269,
+      "magnitude": 5.97,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 91,
+      "name": null,
+      "ra": 6.065,
+      "dec": 52.02,
+      "magnitude": 5.57,
+      "spectral_type": "B5IV"
+    },
+    {
+      "hr": 93,
+      "name": "Cas",
+      "ra": 6.1979,
+      "dec": 61.8311,
+      "magnitude": 5.4,
+      "spectral_type": "B9III"
+    },
+    {
+      "hr": 96,
+      "name": null,
+      "ra": 6.2767,
+      "dec": 53.0469,
+      "magnitude": 5.74,
+      "spectral_type": "B9IV"
+    },
+    {
+      "hr": 97,
+      "name": "Psc",
+      "ra": 6.3508,
+      "dec": 1.9397,
+      "magnitude": 5.77,
+      "spectral_type": "G5III"
+    },
+    {
+      "hr": 98,
+      "name": "Hyi",
+      "ra": 6.4379,
+      "dec": -77.2542,
+      "magnitude": 2.8,
+      "spectral_type": "G2IV"
+    },
+    {
+      "hr": 99,
+      "name": "Phe",
+      "ra": 6.5708,
+      "dec": -42.3061,
+      "magnitude": 2.39,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 100,
+      "name": "Phe",
+      "ra": 6.5508,
+      "dec": -43.68,
+      "magnitude": 3.94,
+      "spectral_type": "A7V"
+    },
+    {
+      "hr": 102,
+      "name": null,
+      "ra": 6.8113,
+      "dec": -25.5472,
+      "magnitude": 5.98,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 103,
+      "name": "Psc",
+      "ra": 7.0121,
+      "dec": 17.8931,
+      "magnitude": 5.06,
+      "spectral_type": "M3III"
+    },
+    {
+      "hr": 104,
+      "name": null,
+      "ra": 7.0571,
+      "dec": 44.3944,
+      "magnitude": 5.17,
+      "spectral_type": "A2V s"
+    },
+    {
+      "hr": 105,
+      "name": "Scl",
+      "ra": 6.9821,
+      "dec": -33.0072,
+      "magnitude": 4.81,
+      "spectral_type": "M4III"
+    },
+    {
+      "hr": 109,
+      "name": null,
+      "ra": 7.11,
+      "dec": -39.915,
+      "magnitude": 5.43,
+      "spectral_type": "M0III"
+    },
+    {
+      "hr": 113,
+      "name": null,
+      "ra": 7.5829,
+      "dec": 59.9772,
+      "magnitude": 5.94,
+      "spectral_type": "B9IIIn"
+    },
+    {
+      "hr": 114,
+      "name": "And",
+      "ra": 7.5304,
+      "dec": 29.7517,
+      "magnitude": 5.23,
+      "spectral_type": "A7III"
+    },
+    {
+      "hr": 117,
+      "name": "Cet",
+      "ra": 7.51,
+      "dec": -3.9572,
+      "magnitude": 5.72,
+      "spectral_type": "M0III"
+    },
+    {
+      "hr": 118,
+      "name": null,
+      "ra": 7.5946,
+      "dec": -23.7878,
+      "magnitude": 5.19,
+      "spectral_type": "A5Vn"
+    },
+    {
+      "hr": 120,
+      "name": null,
+      "ra": 7.6087,
+      "dec": -48.215,
+      "magnitude": 5.69,
+      "spectral_type": "F2V"
+    },
+    {
+      "hr": 122,
+      "name": null,
+      "ra": 7.8567,
+      "dec": 33.5817,
+      "magnitude": 5.87,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 123,
+      "name": "Cas",
+      "ra": 7.9433,
+      "dec": 54.5222,
+      "magnitude": 4.73,
+      "spectral_type": "B8Vn"
+    },
+    {
+      "hr": 124,
+      "name": null,
+      "ra": 7.9217,
+      "dec": 52.8394,
+      "magnitude": 5.6,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 125,
+      "name": "Phe",
+      "ra": 7.8542,
+      "dec": -48.8036,
+      "magnitude": 4.77,
+      "spectral_type": "A0V"
+    },
+    {
+      "hr": 126,
+      "name": "Tuc",
+      "ra": 7.8863,
+      "dec": -62.9581,
+      "magnitude": 4.37,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 127,
+      "name": "Tuc",
+      "ra": 7.89,
+      "dec": -62.9658,
+      "magnitude": 4.54,
+      "spectral_type": "A2V+A7V"
+    },
+    {
+      "hr": 130,
+      "name": "Cas",
+      "ra": 8.25,
+      "dec": 62.9317,
+      "magnitude": 4.16,
+      "spectral_type": "B1Ia"
+    },
+    {
+      "hr": 131,
+      "name": "Psc",
+      "ra": 8.1479,
+      "dec": 20.2944,
+      "magnitude": 5.38,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 132,
+      "name": "Psc",
+      "ra": 8.0992,
+      "dec": 6.9556,
+      "magnitude": 5.67,
+      "spectral_type": "B9.5V"
+    },
+    {
+      "hr": 135,
+      "name": null,
+      "ra": 8.2933,
+      "dec": 54.895,
+      "magnitude": 5.93,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 136,
+      "name": "Tuc",
+      "ra": 8.1825,
+      "dec": -63.0311,
+      "magnitude": 5.09,
+      "spectral_type": "A0V"
+    },
+    {
+      "hr": 138,
+      "name": null,
+      "ra": 8.4213,
+      "dec": -29.5583,
+      "magnitude": 5.55,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 140,
+      "name": null,
+      "ra": 8.6158,
+      "dec": -52.3731,
+      "magnitude": 5.57,
+      "spectral_type": "F3IV-V"
+    },
+    {
+      "hr": 142,
+      "name": "Cet",
+      "ra": 8.8121,
+      "dec": -3.5928,
+      "magnitude": 5.2,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 143,
+      "name": "Cet",
+      "ra": 8.8867,
+      "dec": -0.5056,
+      "magnitude": 5.93,
+      "spectral_type": "F5IV"
+    },
+    {
+      "hr": 144,
+      "name": null,
+      "ra": 9.0346,
+      "dec": 54.1686,
+      "magnitude": 5.08,
+      "spectral_type": "B7III"
+    },
+    {
+      "hr": 146,
+      "name": null,
+      "ra": 9.1137,
+      "dec": 60.3261,
+      "magnitude": 5.79,
+      "spectral_type": "A4III"
+    },
+    {
+      "hr": 147,
+      "name": "Phe",
+      "ra": 8.9213,
+      "dec": -48.0008,
+      "magnitude": 5.51,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 152,
+      "name": null,
+      "ra": 9.1942,
+      "dec": 44.4886,
+      "magnitude": 5.13,
+      "spectral_type": "K5-M0III"
+    },
+    {
+      "hr": 153,
+      "name": "Cas",
+      "ra": 9.2429,
+      "dec": 53.8969,
+      "magnitude": 3.66,
+      "spectral_type": "B2IV"
+    },
+    {
+      "hr": 154,
+      "name": "And",
+      "ra": 9.2204,
+      "dec": 33.7194,
+      "magnitude": 4.36,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 155,
+      "name": "Psc",
+      "ra": 9.1971,
+      "dec": 15.2317,
+      "magnitude": 5.89,
+      "spectral_type": "B2.5IV"
+    },
+    {
+      "hr": 157,
+      "name": null,
+      "ra": 9.3379,
+      "dec": 35.3994,
+      "magnitude": 5.48,
+      "spectral_type": "G2.5IIa"
+    },
+    {
+      "hr": 159,
+      "name": null,
+      "ra": 9.3363,
+      "dec": -24.7672,
+      "magnitude": 5.57,
+      "spectral_type": "G8V"
+    },
+    {
+      "hr": 163,
+      "name": "And",
+      "ra": 9.6387,
+      "dec": 29.3117,
+      "magnitude": 4.37,
+      "spectral_type": "G6IIIFe-3CH1"
+    },
+    {
+      "hr": 164,
+      "name": null,
+      "ra": 9.7913,
+      "dec": 49.3544,
+      "magnitude": 5.43,
+      "spectral_type": "K7III"
+    },
+    {
+      "hr": 165,
+      "name": "And",
+      "ra": 9.8321,
+      "dec": 30.8608,
+      "magnitude": 3.27,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 166,
+      "name": "Psc",
+      "ra": 9.8408,
+      "dec": 21.2506,
+      "magnitude": 5.87,
+      "spectral_type": "K0+V"
+    },
+    {
+      "hr": 167,
+      "name": "Psc",
+      "ra": 9.9817,
+      "dec": 21.4383,
+      "magnitude": 5.36,
+      "spectral_type": "K0III+F3V"
+    },
+    {
+      "hr": 168,
+      "name": "Cas",
+      "ra": 10.1271,
+      "dec": 56.5372,
+      "magnitude": 2.23,
+      "spectral_type": "K0IIIa"
+    },
+    {
+      "hr": 174,
+      "name": null,
+      "ra": 10.1767,
+      "dec": -4.3519,
+      "magnitude": 5.91,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 175,
+      "name": "And",
+      "ra": 10.28,
+      "dec": 39.4586,
+      "magnitude": 5.33,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 176,
+      "name": null,
+      "ra": 10.11,
+      "dec": -59.4544,
+      "magnitude": 5.89,
+      "spectral_type": "G1V"
+    },
+    {
+      "hr": 177,
+      "name": null,
+      "ra": 10.5142,
+      "dec": 66.1475,
+      "magnitude": 5.83,
+      "spectral_type": "G9III-IV"
+    },
+    {
+      "hr": 179,
+      "name": "Cas",
+      "ra": 10.5162,
+      "dec": 50.5125,
+      "magnitude": 4.8,
+      "spectral_type": "B2V"
+    },
+    {
+      "hr": 180,
+      "name": "Phe",
+      "ra": 10.3317,
+      "dec": -46.085,
+      "magnitude": 4.59,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 183,
+      "name": "Phe",
+      "ra": 10.4433,
+      "dec": -56.5017,
+      "magnitude": 5.7,
+      "spectral_type": "ApSrEuCr"
+    },
+    {
+      "hr": 184,
+      "name": "Cas",
+      "ra": 10.8671,
+      "dec": 47.0247,
+      "magnitude": 4.94,
+      "spectral_type": "A5V"
+    },
+    {
+      "hr": 186,
+      "name": null,
+      "ra": 10.6742,
+      "dec": -60.2625,
+      "magnitude": 5.98,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 187,
+      "name": "Tuc",
+      "ra": 10.6183,
+      "dec": -65.4681,
+      "magnitude": 5.39,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 188,
+      "name": "Cet",
+      "ra": 10.8975,
+      "dec": -17.9867,
+      "magnitude": 2.04,
+      "spectral_type": "G9.5IIICH-1"
+    },
+    {
+      "hr": 189,
+      "name": null,
+      "ra": 11.11,
+      "dec": 47.8642,
+      "magnitude": 5.67,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 191,
+      "name": "Phe",
+      "ra": 10.8383,
+      "dec": -57.4631,
+      "magnitude": 4.36,
+      "spectral_type": "A0IV"
+    },
+    {
+      "hr": 192,
+      "name": "Cas",
+      "ra": 11.4125,
+      "dec": 74.9881,
+      "magnitude": 5.66,
+      "spectral_type": "A2IV"
+    },
+    {
+      "hr": 193,
+      "name": "Cas",
+      "ra": 11.1812,
+      "dec": 48.2844,
+      "magnitude": 4.54,
+      "spectral_type": "B5IIIe"
+    },
+    {
+      "hr": 194,
+      "name": "Cet",
+      "ra": 11.0475,
+      "dec": -10.6094,
+      "magnitude": 4.76,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 195,
+      "name": "Scl",
+      "ra": 11.0504,
+      "dec": -38.4217,
+      "magnitude": 5.9,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 196,
+      "name": null,
+      "ra": 11.3217,
+      "dec": 55.2217,
+      "magnitude": 5.42,
+      "spectral_type": "A2V s"
+    },
+    {
+      "hr": 197,
+      "name": null,
+      "ra": 11.185,
+      "dec": -22.0061,
+      "magnitude": 5.24,
+      "spectral_type": "F1III-IV"
+    },
+    {
+      "hr": 198,
+      "name": null,
+      "ra": 11.2379,
+      "dec": -42.6767,
+      "magnitude": 5.94,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 208,
+      "name": "Cas",
+      "ra": 11.9421,
+      "dec": 74.8475,
+      "magnitude": 5.41,
+      "spectral_type": "B8III"
+    },
+    {
+      "hr": 209,
+      "name": null,
+      "ra": 11.44,
+      "dec": -47.5517,
+      "magnitude": 5.8,
+      "spectral_type": "G1V"
+    },
+    {
+      "hr": 210,
+      "name": null,
+      "ra": 11.5492,
+      "dec": -22.5219,
+      "magnitude": 5.5,
+      "spectral_type": "G3V"
+    },
+    {
+      "hr": 211,
+      "name": "Psc",
+      "ra": 11.6375,
+      "dec": 15.4756,
+      "magnitude": 5.38,
+      "spectral_type": "M4IIIa"
+    },
+    {
+      "hr": 212,
+      "name": null,
+      "ra": 12.0379,
+      "dec": 72.675,
+      "magnitude": 5.87,
+      "spectral_type": "K0IV"
+    },
+    {
+      "hr": 213,
+      "name": "Psc",
+      "ra": 11.7562,
+      "dec": 11.9739,
+      "magnitude": 5.5,
+      "spectral_type": "G8II"
+    },
+    {
+      "hr": 215,
+      "name": "And",
+      "ra": 11.8346,
+      "dec": 24.2672,
+      "magnitude": 4.06,
+      "spectral_type": "K1IIe"
+    },
+    {
+      "hr": 216,
+      "name": "Psc",
+      "ra": 11.8483,
+      "dec": 6.7408,
+      "magnitude": 5.99,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 218,
+      "name": null,
+      "ra": 11.9304,
+      "dec": -18.0614,
+      "magnitude": 5.7,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 219,
+      "name": "Cas",
+      "ra": 12.275,
+      "dec": 57.8158,
+      "magnitude": 3.44,
+      "spectral_type": "F9V+dM0"
+    },
+    {
+      "hr": 220,
+      "name": null,
+      "ra": 12.0046,
+      "dec": -21.7225,
+      "magnitude": 5.57,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 221,
+      "name": "Psc",
+      "ra": 12.0725,
+      "dec": 7.3,
+      "magnitude": 5.93,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 222,
+      "name": null,
+      "ra": 12.0958,
+      "dec": 5.2806,
+      "magnitude": 5.75,
+      "spectral_type": "K2V"
+    },
+    {
+      "hr": 223,
+      "name": "Cas",
+      "ra": 12.2088,
+      "dec": 50.9683,
+      "magnitude": 4.89,
+      "spectral_type": "B9III"
+    },
+    {
+      "hr": 224,
+      "name": "Psc",
+      "ra": 12.1708,
+      "dec": 7.585,
+      "magnitude": 4.43,
+      "spectral_type": "K4IIIb"
+    },
+    {
+      "hr": 225,
+      "name": "Psc",
+      "ra": 12.2446,
+      "dec": 16.9406,
+      "magnitude": 5.07,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 226,
+      "name": "And",
+      "ra": 12.4533,
+      "dec": 41.0789,
+      "magnitude": 4.53,
+      "spectral_type": "B5V+F8V"
+    },
+    {
+      "hr": 227,
+      "name": null,
+      "ra": 12.3567,
+      "dec": -13.5614,
+      "magnitude": 5.59,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 228,
+      "name": null,
+      "ra": 12.3079,
+      "dec": -24.1364,
+      "magnitude": 5.9,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 233,
+      "name": null,
+      "ra": 12.6817,
+      "dec": 64.2475,
+      "magnitude": 5.39,
+      "spectral_type": "G0III-IV+B9.5V"
+    },
+    {
+      "hr": 235,
+      "name": "Cet",
+      "ra": 12.5317,
+      "dec": -10.6444,
+      "magnitude": 5.19,
+      "spectral_type": "F7IV-V"
+    },
+    {
+      "hr": 236,
+      "name": "Hyi",
+      "ra": 12.1475,
+      "dec": -74.9233,
+      "magnitude": 5.07,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 240,
+      "name": null,
+      "ra": 13.7213,
+      "dec": 83.7072,
+      "magnitude": 5.62,
+      "spectral_type": "A4V"
+    },
+    {
+      "hr": 242,
+      "name": "Phe",
+      "ra": 12.6717,
+      "dec": -50.9869,
+      "magnitude": 5.22,
+      "spectral_type": "F2III"
+    },
+    {
+      "hr": 244,
+      "name": null,
+      "ra": 13.2671,
+      "dec": 61.1242,
+      "magnitude": 4.82,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 247,
+      "name": null,
+      "ra": 13.1692,
+      "dec": -24.0058,
+      "magnitude": 5.46,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 248,
+      "name": "Cet",
+      "ra": 13.2521,
+      "dec": -1.1442,
+      "magnitude": 4.77,
+      "spectral_type": "M0III"
+    },
+    {
+      "hr": 253,
+      "name": "Cas",
+      "ra": 13.7504,
+      "dec": 58.9728,
+      "magnitude": 4.83,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 254,
+      "name": "Psc",
+      "ra": 13.6467,
+      "dec": 19.1883,
+      "magnitude": 5.74,
+      "spectral_type": "A1VN"
+    },
+    {
+      "hr": 257,
+      "name": null,
+      "ra": 13.4079,
+      "dec": -62.8714,
+      "magnitude": 5.7,
+      "spectral_type": "M4III"
+    },
+    {
+      "hr": 258,
+      "name": "And",
+      "ra": 13.7417,
+      "dec": 23.6283,
+      "magnitude": 5.47,
+      "spectral_type": "K1IV"
+    },
+    {
+      "hr": 263,
+      "name": null,
+      "ra": 13.9267,
+      "dec": -7.3472,
+      "magnitude": 5.85,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 264,
+      "name": "Cas",
+      "ra": 14.1771,
+      "dec": 60.7167,
+      "magnitude": 2.47,
+      "spectral_type": "B0IVe"
+    },
+    {
+      "hr": 265,
+      "name": "Cas",
+      "ra": 14.1658,
+      "dec": 59.1811,
+      "magnitude": 4.63,
+      "spectral_type": "G8IIIbFe-0.5"
+    },
+    {
+      "hr": 266,
+      "name": null,
+      "ra": 14.1963,
+      "dec": 60.3628,
+      "magnitude": 5.55,
+      "spectral_type": "B9IVn"
+    },
+    {
+      "hr": 267,
+      "name": "Cet",
+      "ra": 14.0062,
+      "dec": -11.2667,
+      "magnitude": 5.31,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 269,
+      "name": "And",
+      "ra": 14.1883,
+      "dec": 38.4994,
+      "magnitude": 3.87,
+      "spectral_type": "A5V"
+    },
+    {
+      "hr": 270,
+      "name": "Tuc",
+      "ra": 13.7512,
+      "dec": -69.5269,
+      "magnitude": 5.45,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 271,
+      "name": "And",
+      "ra": 14.3017,
+      "dec": 23.4175,
+      "magnitude": 4.42,
+      "spectral_type": "G8IIIb"
+    },
+    {
+      "hr": 273,
+      "name": null,
+      "ra": 14.6296,
+      "dec": 66.3522,
+      "magnitude": 5.97,
+      "spectral_type": "A0III"
+    },
+    {
+      "hr": 274,
+      "name": "Psc",
+      "ra": 14.4592,
+      "dec": 28.9922,
+      "magnitude": 5.42,
+      "spectral_type": "gG6"
+    },
+    {
+      "hr": 275,
+      "name": null,
+      "ra": 14.5592,
+      "dec": 33.9508,
+      "magnitude": 5.98,
+      "spectral_type": "K0"
+    },
+    {
+      "hr": 279,
+      "name": "Cet",
+      "ra": 14.6829,
+      "dec": -11.38,
+      "magnitude": 5.61,
+      "spectral_type": "G7III"
+    },
+    {
+      "hr": 280,
+      "name": "Scl",
+      "ra": 14.6517,
+      "dec": -29.3575,
+      "magnitude": 4.31,
+      "spectral_type": "B7IIIp"
+    },
+    {
+      "hr": 285,
+      "name": null,
+      "ra": 17.1863,
+      "dec": 86.2569,
+      "magnitude": 4.25,
+      "spectral_type": "K2II-III"
+    },
+    {
+      "hr": 288,
+      "name": "Scl",
+      "ra": 15.3262,
+      "dec": -38.9167,
+      "magnitude": 5.59,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 290,
+      "name": "And",
+      "ra": 15.7263,
+      "dec": 41.345,
+      "magnitude": 5.98,
+      "spectral_type": "A5m"
+    },
+    {
+      "hr": 291,
+      "name": "Psc",
+      "ra": 15.7046,
+      "dec": 31.8044,
+      "magnitude": 5.5,
+      "spectral_type": "B9.5V"
+    },
+    {
+      "hr": 292,
+      "name": null,
+      "ra": 15.9042,
+      "dec": 61.075,
+      "magnitude": 5.92,
+      "spectral_type": "F0II"
+    },
+    {
+      "hr": 293,
+      "name": "Scl",
+      "ra": 15.61,
+      "dec": -31.5519,
+      "magnitude": 5.5,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 294,
+      "name": "Psc",
+      "ra": 15.7358,
+      "dec": 7.89,
+      "magnitude": 4.28,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 296,
+      "name": "Cet",
+      "ra": 15.7608,
+      "dec": -4.8367,
+      "magnitude": 5.43,
+      "spectral_type": "K0III-IV"
+    },
+    {
+      "hr": 297,
+      "name": null,
+      "ra": 16.0817,
+      "dec": 61.5803,
+      "magnitude": 5.84,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 298,
+      "name": null,
+      "ra": 16.01,
+      "dec": 52.5022,
+      "magnitude": 5.99,
+      "spectral_type": "K2"
+    },
+    {
+      "hr": 299,
+      "name": null,
+      "ra": 15.705,
+      "dec": -46.3975,
+      "magnitude": 5.36,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 308,
+      "name": "Psc",
+      "ra": 16.2725,
+      "dec": 14.9461,
+      "magnitude": 5.68,
+      "spectral_type": "F4II-III"
+    },
+    {
+      "hr": 310,
+      "name": "Psc",
+      "ra": 16.4204,
+      "dec": 21.4733,
+      "magnitude": 5.34,
+      "spectral_type": "A1Vn"
+    },
+    {
+      "hr": 311,
+      "name": "Psc",
+      "ra": 16.4237,
+      "dec": 21.4653,
+      "magnitude": 5.56,
+      "spectral_type": "A0Vn"
+    },
+    {
+      "hr": 317,
+      "name": "Cet",
+      "ra": 16.5213,
+      "dec": -9.8394,
+      "magnitude": 5.58,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 321,
+      "name": "Cas",
+      "ra": 17.0683,
+      "dec": 54.9203,
+      "magnitude": 5.17,
+      "spectral_type": "G5Vb"
+    },
+    {
+      "hr": 322,
+      "name": "Phe",
+      "ra": 16.5208,
+      "dec": -46.7186,
+      "magnitude": 3.31,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 324,
+      "name": "And",
+      "ra": 17.0038,
+      "dec": 43.9419,
+      "magnitude": 5.03,
+      "spectral_type": "A3m"
+    },
+    {
+      "hr": 326,
+      "name": null,
+      "ra": 17.1387,
+      "dec": 58.2636,
+      "magnitude": 5.79,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 328,
+      "name": "Psc",
+      "ra": 16.9883,
+      "dec": 20.7392,
+      "magnitude": 5.55,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 329,
+      "name": "Cet",
+      "ra": 16.9425,
+      "dec": -9.7856,
+      "magnitude": 5.82,
+      "spectral_type": "F7IV"
+    },
+    {
+      "hr": 330,
+      "name": "Psc",
+      "ra": 17.0925,
+      "dec": 5.6497,
+      "magnitude": 5.52,
+      "spectral_type": "F0III-IV"
+    },
+    {
+      "hr": 331,
+      "name": "Phe",
+      "ra": 16.9496,
+      "dec": -41.4869,
+      "magnitude": 5.21,
+      "spectral_type": "A3IV"
+    },
+    {
+      "hr": 332,
+      "name": "Tuc",
+      "ra": 16.8279,
+      "dec": -61.7753,
+      "magnitude": 5.37,
+      "spectral_type": "G5III"
+    },
+    {
+      "hr": 333,
+      "name": null,
+      "ra": 18.0696,
+      "dec": 79.6739,
+      "magnitude": 5.64,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 334,
+      "name": "Cet",
+      "ra": 17.1475,
+      "dec": -10.1822,
+      "magnitude": 3.45,
+      "spectral_type": "K1.5IIICN1Fe0.5"
+    },
+    {
+      "hr": 335,
+      "name": "And",
+      "ra": 17.3758,
+      "dec": 47.2419,
+      "magnitude": 4.25,
+      "spectral_type": "B7Ve"
+    },
+    {
+      "hr": 336,
+      "name": "Cas",
+      "ra": 17.6638,
+      "dec": 68.7786,
+      "magnitude": 5.29,
+      "spectral_type": "A0Vnn"
+    },
+    {
+      "hr": 337,
+      "name": "And",
+      "ra": 17.4329,
+      "dec": 35.6206,
+      "magnitude": 2.06,
+      "spectral_type": "M0+IIIa"
+    },
+    {
+      "hr": 338,
+      "name": "Phe",
+      "ra": 17.0963,
+      "dec": -55.2458,
+      "magnitude": 3.92,
+      "spectral_type": "B6V+B9V"
+    },
+    {
+      "hr": 339,
+      "name": "Psc",
+      "ra": 17.455,
+      "dec": 19.6586,
+      "magnitude": 5.55,
+      "spectral_type": "G0III"
+    },
+    {
+      "hr": 340,
+      "name": "And",
+      "ra": 17.5783,
+      "dec": 42.0814,
+      "magnitude": 5.65,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 341,
+      "name": null,
+      "ra": 17.5808,
+      "dec": 25.4578,
+      "magnitude": 5.8,
+      "spectral_type": "K7III"
+    },
+    {
+      "hr": 342,
+      "name": null,
+      "ra": 17.8567,
+      "dec": 64.2028,
+      "magnitude": 5.55,
+      "spectral_type": "B9.5V"
+    },
+    {
+      "hr": 343,
+      "name": "Cas",
+      "ra": 17.7758,
+      "dec": 55.1497,
+      "magnitude": 4.33,
+      "spectral_type": "A7V"
+    },
+    {
+      "hr": 345,
+      "name": "Cas",
+      "ra": 17.9225,
+      "dec": 65.0189,
+      "magnitude": 5.57,
+      "spectral_type": "B9IV"
+    },
+    {
+      "hr": 347,
+      "name": "Cet",
+      "ra": 17.64,
+      "dec": 2.4456,
+      "magnitude": 5.95,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 348,
+      "name": "And",
+      "ra": 17.7929,
+      "dec": 37.7242,
+      "magnitude": 5.81,
+      "spectral_type": "B7III-IV"
+    },
+    {
+      "hr": 349,
+      "name": "Psc",
+      "ra": 17.7783,
+      "dec": 31.4247,
+      "magnitude": 5.16,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 351,
+      "name": "Psc",
+      "ra": 17.8633,
+      "dec": 21.0347,
+      "magnitude": 4.66,
+      "spectral_type": "G8.5III-IIIa"
+    },
+    {
+      "hr": 352,
+      "name": "Psc",
+      "ra": 17.915,
+      "dec": 30.0897,
+      "magnitude": 4.51,
+      "spectral_type": "K0.5IIIb"
+    },
+    {
+      "hr": 353,
+      "name": "Cet",
+      "ra": 17.9312,
+      "dec": -2.2511,
+      "magnitude": 5.94,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 359,
+      "name": null,
+      "ra": 18.1892,
+      "dec": -37.8564,
+      "magnitude": 5.92,
+      "spectral_type": "F0III"
+    },
+    {
+      "hr": 360,
+      "name": "Psc",
+      "ra": 18.4371,
+      "dec": 24.5836,
+      "magnitude": 4.65,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 361,
+      "name": "Psc",
+      "ra": 18.4329,
+      "dec": 7.5753,
+      "magnitude": 5.24,
+      "spectral_type": "A7IV"
+    },
+    {
+      "hr": 364,
+      "name": "Psc",
+      "ra": 18.5317,
+      "dec": 16.1336,
+      "magnitude": 5.98,
+      "spectral_type": "B8III"
+    },
+    {
+      "hr": 366,
+      "name": "Cet",
+      "ra": 18.6,
+      "dec": -7.9231,
+      "magnitude": 5.13,
+      "spectral_type": "F5V"
+    },
+    {
+      "hr": 368,
+      "name": "Cet",
+      "ra": 18.705,
+      "dec": -0.9739,
+      "magnitude": 5.7,
+      "spectral_type": "F5V"
+    },
+    {
+      "hr": 370,
+      "name": "Phe",
+      "ra": 18.7963,
+      "dec": -45.5314,
+      "magnitude": 4.96,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 373,
+      "name": "Cet",
+      "ra": 19.1512,
+      "dec": -2.5003,
+      "magnitude": 5.41,
+      "spectral_type": "G5IIIe+dA"
+    },
+    {
+      "hr": 377,
+      "name": "Tuc",
+      "ra": 18.9421,
+      "dec": -68.8761,
+      "magnitude": 4.86,
+      "spectral_type": "F6IV"
+    },
+    {
+      "hr": 378,
+      "name": "Psc",
+      "ra": 19.45,
+      "dec": 3.6144,
+      "magnitude": 5.16,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 382,
+      "name": "Cas",
+      "ra": 20.0204,
+      "dec": 58.2317,
+      "magnitude": 4.98,
+      "spectral_type": "F0Ia"
+    },
+    {
+      "hr": 383,
+      "name": "Psc",
+      "ra": 19.8667,
+      "dec": 27.2642,
+      "magnitude": 4.76,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 385,
+      "name": "Cet",
+      "ra": 19.9512,
+      "dec": -0.5089,
+      "magnitude": 5.87,
+      "spectral_type": "G8III+A7V"
+    },
+    {
+      "hr": 389,
+      "name": "Psc",
+      "ra": 20.2808,
+      "dec": 28.7381,
+      "magnitude": 5.23,
+      "spectral_type": "gK5"
+    },
+    {
+      "hr": 390,
+      "name": "And",
+      "ra": 20.585,
+      "dec": 45.5289,
+      "magnitude": 4.88,
+      "spectral_type": "K0-IIIb"
+    },
+    {
+      "hr": 395,
+      "name": "And",
+      "ra": 20.9192,
+      "dec": 37.715,
+      "magnitude": 5.58,
+      "spectral_type": "A2Vm"
+    },
+    {
+      "hr": 397,
+      "name": null,
+      "ra": 20.8537,
+      "dec": 20.4689,
+      "magnitude": 5.97,
+      "spectral_type": "K5"
+    },
+    {
+      "hr": 399,
+      "name": "Cas",
+      "ra": 21.4833,
+      "dec": 68.13,
+      "magnitude": 4.74,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 400,
+      "name": null,
+      "ra": 20.8792,
+      "dec": -30.9456,
+      "magnitude": 5.84,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 402,
+      "name": "Cet",
+      "ra": 21.0058,
+      "dec": -8.1833,
+      "magnitude": 3.6,
+      "spectral_type": "K0III-IIIb"
+    },
+    {
+      "hr": 403,
+      "name": "Cas",
+      "ra": 21.4542,
+      "dec": 60.2353,
+      "magnitude": 2.68,
+      "spectral_type": "A5III-IV"
+    },
+    {
+      "hr": 404,
+      "name": null,
+      "ra": 21.0858,
+      "dec": -6.9147,
+      "magnitude": 5.91,
+      "spectral_type": "F3V"
+    },
+    {
+      "hr": 408,
+      "name": null,
+      "ra": 21.17,
+      "dec": -41.4925,
+      "magnitude": 5.42,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 409,
+      "name": null,
+      "ra": 21.5775,
+      "dec": 43.4578,
+      "magnitude": 5.96,
+      "spectral_type": "F7V"
+    },
+    {
+      "hr": 412,
+      "name": "Cet",
+      "ra": 21.405,
+      "dec": -14.5989,
+      "magnitude": 4.9,
+      "spectral_type": "K2.5IIIb"
+    },
+    {
+      "hr": 413,
+      "name": "Psc",
+      "ra": 21.5638,
+      "dec": 19.1722,
+      "magnitude": 5.38,
+      "spectral_type": "F2V:"
+    },
+    {
+      "hr": 414,
+      "name": "Psc",
+      "ra": 21.6737,
+      "dec": 19.2403,
+      "magnitude": 5.5,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 417,
+      "name": "And",
+      "ra": 21.9142,
+      "dec": 45.4067,
+      "magnitude": 4.83,
+      "spectral_type": "F5IV"
+    },
+    {
+      "hr": 420,
+      "name": null,
+      "ra": 21.2721,
+      "dec": -64.3694,
+      "magnitude": 5.93,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 421,
+      "name": "Cet",
+      "ra": 21.715,
+      "dec": -13.0567,
+      "magnitude": 5.66,
+      "spectral_type": "F0IIIDel Del"
+    },
+    {
+      "hr": 423,
+      "name": null,
+      "ra": 21.7421,
+      "dec": -32.5431,
+      "magnitude": 5.79,
+      "spectral_type": "C6II"
+    },
+    {
+      "hr": 424,
+      "name": null,
+      "ra": 37.9529,
+      "dec": 89.2642,
+      "magnitude": 2.02,
+      "spectral_type": "F7:Ib-II"
+    },
+    {
+      "hr": 427,
+      "name": "Cas",
+      "ra": 22.8075,
+      "dec": 70.2647,
+      "magnitude": 5.81,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 429,
+      "name": "Phe",
+      "ra": 22.0913,
+      "dec": -43.3183,
+      "magnitude": 3.41,
+      "spectral_type": "M0-IIIa"
+    },
+    {
+      "hr": 430,
+      "name": "And",
+      "ra": 22.5258,
+      "dec": 47.0072,
+      "magnitude": 5.27,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 433,
+      "name": "Cet",
+      "ra": 22.4004,
+      "dec": -21.6294,
+      "magnitude": 5.12,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 434,
+      "name": "Psc",
+      "ra": 22.5463,
+      "dec": 6.1439,
+      "magnitude": 4.84,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 436,
+      "name": null,
+      "ra": 22.5954,
+      "dec": -26.2078,
+      "magnitude": 5.93,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 437,
+      "name": "Psc",
+      "ra": 22.8708,
+      "dec": 15.3458,
+      "magnitude": 3.62,
+      "spectral_type": "G7IIIa"
+    },
+    {
+      "hr": 439,
+      "name": null,
+      "ra": 23.3575,
+      "dec": 58.3275,
+      "magnitude": 5.7,
+      "spectral_type": "K0Ib+B9V"
+    },
+    {
+      "hr": 440,
+      "name": "Phe",
+      "ra": 22.8129,
+      "dec": -49.0728,
+      "magnitude": 3.95,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 441,
+      "name": null,
+      "ra": 22.9304,
+      "dec": -30.2833,
+      "magnitude": 5.82,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 442,
+      "name": "Cas",
+      "ra": 23.4829,
+      "dec": 59.2319,
+      "magnitude": 4.71,
+      "spectral_type": "G9IIIb"
+    },
+    {
+      "hr": 445,
+      "name": null,
+      "ra": 23.2333,
+      "dec": -36.8653,
+      "magnitude": 5.51,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 446,
+      "name": null,
+      "ra": 23.5692,
+      "dec": 37.2372,
+      "magnitude": 5.88,
+      "spectral_type": "B9IV"
+    },
+    {
+      "hr": 448,
+      "name": null,
+      "ra": 23.4288,
+      "dec": -7.0253,
+      "magnitude": 5.76,
+      "spectral_type": "G2IV"
+    },
+    {
+      "hr": 450,
+      "name": null,
+      "ra": 23.7046,
+      "dec": 18.4606,
+      "magnitude": 5.89,
+      "spectral_type": "M2IIIab"
+    },
+    {
+      "hr": 451,
+      "name": "Cet",
+      "ra": 23.6575,
+      "dec": -15.6761,
+      "magnitude": 5.63,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 454,
+      "name": null,
+      "ra": 24.1133,
+      "dec": 48.7228,
+      "magnitude": 5.92,
+      "spectral_type": "gK1"
+    },
+    {
+      "hr": 456,
+      "name": "Cas",
+      "ra": 24.6288,
+      "dec": 73.04,
+      "magnitude": 5.28,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 457,
+      "name": null,
+      "ra": 23.9783,
+      "dec": 17.4336,
+      "magnitude": 5.8,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 458,
+      "name": "And",
+      "ra": 24.1992,
+      "dec": 41.4056,
+      "magnitude": 4.09,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 459,
+      "name": "Cet",
+      "ra": 23.9958,
+      "dec": -15.4003,
+      "magnitude": 5.42,
+      "spectral_type": "K2IIIaBa0.2CN1"
+    },
+    {
+      "hr": 461,
+      "name": null,
+      "ra": 24.5317,
+      "dec": 57.9775,
+      "magnitude": 5.56,
+      "spectral_type": "G5II"
+    },
+    {
+      "hr": 462,
+      "name": "Scl",
+      "ra": 24.035,
+      "dec": -29.9075,
+      "magnitude": 5.69,
+      "spectral_type": "F2V"
+    },
+    {
+      "hr": 463,
+      "name": "Psc",
+      "ra": 24.2746,
+      "dec": 12.1417,
+      "magnitude": 5.57,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 464,
+      "name": "And",
+      "ra": 24.4983,
+      "dec": 48.6283,
+      "magnitude": 3.57,
+      "spectral_type": "K3-III"
+    },
+    {
+      "hr": 469,
+      "name": "And",
+      "ra": 24.8375,
+      "dec": 44.3861,
+      "magnitude": 4.98,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 471,
+      "name": null,
+      "ra": 24.6142,
+      "dec": -36.5283,
+      "magnitude": 5.94,
+      "spectral_type": "K0IV"
+    },
+    {
+      "hr": 472,
+      "name": "Eri",
+      "ra": 24.4288,
+      "dec": -57.2367,
+      "magnitude": 0.46,
+      "spectral_type": "B3Vpe"
+    },
+    {
+      "hr": 473,
+      "name": null,
+      "ra": 24.7158,
+      "dec": -21.2753,
+      "magnitude": 5.58,
+      "spectral_type": "A4n"
+    },
+    {
+      "hr": 475,
+      "name": "Psc",
+      "ra": 24.92,
+      "dec": 16.4058,
+      "magnitude": 5.97,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 476,
+      "name": null,
+      "ra": 25.1658,
+      "dec": 43.2978,
+      "magnitude": 5.61,
+      "spectral_type": "sgA9"
+    },
+    {
+      "hr": 477,
+      "name": "And",
+      "ra": 25.145,
+      "dec": 40.5769,
+      "magnitude": 4.94,
+      "spectral_type": "B8III"
+    },
+    {
+      "hr": 478,
+      "name": "Cas",
+      "ra": 25.5854,
+      "dec": 68.0431,
+      "magnitude": 5.59,
+      "spectral_type": "A0pSiSr"
+    },
+    {
+      "hr": 480,
+      "name": "Cas",
+      "ra": 25.7329,
+      "dec": 70.6225,
+      "magnitude": 5.18,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 483,
+      "name": null,
+      "ra": 25.4467,
+      "dec": 42.6136,
+      "magnitude": 4.95,
+      "spectral_type": "G1.5V"
+    },
+    {
+      "hr": 485,
+      "name": null,
+      "ra": 25.4133,
+      "dec": 30.0472,
+      "magnitude": 5.99,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 486,
+      "name": null,
+      "ra": 24.9475,
+      "dec": -56.1981,
+      "magnitude": 5.87,
+      "spectral_type": "K0V"
+    },
+    {
+      "hr": 487,
+      "name": null,
+      "ra": 24.9492,
+      "dec": -56.1947,
+      "magnitude": 5.76,
+      "spectral_type": "K5V"
+    },
+    {
+      "hr": 489,
+      "name": "Psc",
+      "ra": 25.3579,
+      "dec": 5.4875,
+      "magnitude": 4.44,
+      "spectral_type": "K3IIIbBa0.1"
+    },
+    {
+      "hr": 490,
+      "name": null,
+      "ra": 25.5146,
+      "dec": 35.2456,
+      "magnitude": 5.64,
+      "spectral_type": "B9IV-V"
+    },
+    {
+      "hr": 491,
+      "name": "Cas",
+      "ra": 25.8321,
+      "dec": 60.5511,
+      "magnitude": 5.78,
+      "spectral_type": "B8IIIn"
+    },
+    {
+      "hr": 492,
+      "name": null,
+      "ra": 25.4363,
+      "dec": -11.3247,
+      "magnitude": 5.75,
+      "spectral_type": "F5V+F7V"
+    },
+    {
+      "hr": 493,
+      "name": "Psc",
+      "ra": 25.6242,
+      "dec": 20.2686,
+      "magnitude": 5.24,
+      "spectral_type": "K1V"
+    },
+    {
+      "hr": 496,
+      "name": "Per",
+      "ra": 25.915,
+      "dec": 50.6886,
+      "magnitude": 4.07,
+      "spectral_type": "B2Vep"
+    },
+    {
+      "hr": 497,
+      "name": "Scl",
+      "ra": 25.5358,
+      "dec": -32.3269,
+      "magnitude": 5.25,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 498,
+      "name": null,
+      "ra": 25.5125,
+      "dec": -36.8325,
+      "magnitude": 5.72,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 500,
+      "name": null,
+      "ra": 25.6812,
+      "dec": -3.6903,
+      "magnitude": 4.99,
+      "spectral_type": "K3II-III"
+    },
+    {
+      "hr": 505,
+      "name": null,
+      "ra": 25.45,
+      "dec": -60.7894,
+      "magnitude": 5.71,
+      "spectral_type": "K2-3III"
+    },
+    {
+      "hr": 506,
+      "name": null,
+      "ra": 25.6221,
+      "dec": -53.7406,
+      "magnitude": 5.52,
+      "spectral_type": "F9V"
+    },
+    {
+      "hr": 509,
+      "name": "Cet",
+      "ra": 26.0171,
+      "dec": -15.9375,
+      "magnitude": 3.5,
+      "spectral_type": "G8V"
+    },
+    {
+      "hr": 510,
+      "name": "Psc",
+      "ra": 26.3483,
+      "dec": 9.1578,
+      "magnitude": 4.26,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 511,
+      "name": null,
+      "ra": 26.9367,
+      "dec": 63.8522,
+      "magnitude": 5.63,
+      "spectral_type": "K0V"
+    },
+    {
+      "hr": 512,
+      "name": null,
+      "ra": 24.4817,
+      "dec": -82.975,
+      "magnitude": 5.87,
+      "spectral_type": "G2V"
+    },
+    {
+      "hr": 513,
+      "name": null,
+      "ra": 26.4971,
+      "dec": -5.7333,
+      "magnitude": 5.34,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 514,
+      "name": "Scl",
+      "ra": 26.4117,
+      "dec": -25.0525,
+      "magnitude": 5.31,
+      "spectral_type": "F1V"
+    },
+    {
+      "hr": 519,
+      "name": null,
+      "ra": 26.5242,
+      "dec": -50.8164,
+      "magnitude": 5.49,
+      "spectral_type": "M3III"
+    },
+    {
+      "hr": 520,
+      "name": null,
+      "ra": 26.5262,
+      "dec": -53.5219,
+      "magnitude": 5.04,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 521,
+      "name": null,
+      "ra": 27.1621,
+      "dec": 37.9528,
+      "magnitude": 5.94,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 522,
+      "name": "Ari",
+      "ra": 27.0454,
+      "dec": 16.9556,
+      "magnitude": 5.84,
+      "spectral_type": "B9.5V"
+    },
+    {
+      "hr": 523,
+      "name": null,
+      "ra": 27.1733,
+      "dec": 32.6903,
+      "magnitude": 5.79,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 525,
+      "name": null,
+      "ra": 24.3667,
+      "dec": -84.7697,
+      "magnitude": 5.69,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 526,
+      "name": null,
+      "ra": 27.3154,
+      "dec": 47.8969,
+      "magnitude": 5.82,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 527,
+      "name": null,
+      "ra": 27.1083,
+      "dec": 3.6856,
+      "magnitude": 5.91,
+      "spectral_type": "G9III"
+    },
+    {
+      "hr": 529,
+      "name": null,
+      "ra": 27.7379,
+      "dec": 51.9333,
+      "magnitude": 5.9,
+      "spectral_type": "F5IV"
+    },
+    {
+      "hr": 530,
+      "name": "Ari",
+      "ra": 27.5354,
+      "dec": 22.2753,
+      "magnitude": 5.86,
+      "spectral_type": "K1III+A6V"
+    },
+    {
+      "hr": 531,
+      "name": "Cet",
+      "ra": 27.3962,
+      "dec": -10.6864,
+      "magnitude": 4.67,
+      "spectral_type": "F3III"
+    },
+    {
+      "hr": 533,
+      "name": "Per",
+      "ra": 27.9971,
+      "dec": 55.1475,
+      "magnitude": 5.52,
+      "spectral_type": "B1.5V"
+    },
+    {
+      "hr": 534,
+      "name": null,
+      "ra": 27.7167,
+      "dec": 11.0433,
+      "magnitude": 5.94,
+      "spectral_type": "F2V w"
+    },
+    {
+      "hr": 536,
+      "name": "Per",
+      "ra": 28.0392,
+      "dec": 50.7928,
+      "magnitude": 5.79,
+      "spectral_type": "B9IIIpHgMn"
+    },
+    {
+      "hr": 539,
+      "name": "Cet",
+      "ra": 27.865,
+      "dec": -10.335,
+      "magnitude": 3.73,
+      "spectral_type": "K0IIIBa0.1"
+    },
+    {
+      "hr": 541,
+      "name": null,
+      "ra": 27.7271,
+      "dec": -50.2061,
+      "magnitude": 5.94,
+      "spectral_type": "A1Vp"
+    },
+    {
+      "hr": 542,
+      "name": "Cas",
+      "ra": 28.5987,
+      "dec": 63.67,
+      "magnitude": 3.38,
+      "spectral_type": "B3III"
+    },
+    {
+      "hr": 543,
+      "name": "And",
+      "ra": 28.3221,
+      "dec": 40.7297,
+      "magnitude": 5.4,
+      "spectral_type": "gK1"
+    },
+    {
+      "hr": 544,
+      "name": "Tri",
+      "ra": 28.2704,
+      "dec": 29.5789,
+      "magnitude": 3.41,
+      "spectral_type": "F6IV"
+    },
+    {
+      "hr": 545,
+      "name": "Ari",
+      "ra": 28.3825,
+      "dec": 19.2958,
+      "magnitude": 4.83,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 546,
+      "name": "Ari",
+      "ra": 28.3825,
+      "dec": 19.2936,
+      "magnitude": 4.75,
+      "spectral_type": "A1pSi"
+    },
+    {
+      "hr": 547,
+      "name": null,
+      "ra": 28.2171,
+      "dec": -16.9292,
+      "magnitude": 5.8,
+      "spectral_type": "F0IIIn"
+    },
+    {
+      "hr": 548,
+      "name": "Cas",
+      "ra": 29.0,
+      "dec": 68.6853,
+      "magnitude": 4.99,
+      "spectral_type": "B8III"
+    },
+    {
+      "hr": 549,
+      "name": "Psc",
+      "ra": 28.3887,
+      "dec": 3.1875,
+      "magnitude": 4.62,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 553,
+      "name": "Ari",
+      "ra": 28.66,
+      "dec": 20.8081,
+      "magnitude": 2.64,
+      "spectral_type": "A5V"
+    },
+    {
+      "hr": 555,
+      "name": "Phe",
+      "ra": 28.4117,
+      "dec": -46.3025,
+      "magnitude": 4.41,
+      "spectral_type": "M4III"
+    },
+    {
+      "hr": 556,
+      "name": null,
+      "ra": 28.9767,
+      "dec": 37.2778,
+      "magnitude": 5.89,
+      "spectral_type": "gM0"
+    },
+    {
+      "hr": 557,
+      "name": "And",
+      "ra": 29.0388,
+      "dec": 37.2517,
+      "magnitude": 5.67,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 558,
+      "name": "Phe",
+      "ra": 28.5917,
+      "dec": -42.4969,
+      "magnitude": 5.11,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 559,
+      "name": "Ari",
+      "ra": 28.9625,
+      "dec": 23.5772,
+      "magnitude": 5.74,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 563,
+      "name": "Ari",
+      "ra": 29.3379,
+      "dec": 17.8175,
+      "magnitude": 5.1,
+      "spectral_type": "K1p"
+    },
+    {
+      "hr": 564,
+      "name": null,
+      "ra": 29.4325,
+      "dec": 27.8044,
+      "magnitude": 5.82,
+      "spectral_type": "M2III"
+    },
+    {
+      "hr": 565,
+      "name": "Cet",
+      "ra": 29.1675,
+      "dec": -22.5269,
+      "magnitude": 4.85,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 566,
+      "name": "Eri",
+      "ra": 28.9896,
+      "dec": -51.6089,
+      "magnitude": 3.7,
+      "spectral_type": "G8IIIbCNIV"
+    },
+    {
+      "hr": 567,
+      "name": null,
+      "ra": 29.9083,
+      "dec": 64.6214,
+      "magnitude": 5.26,
+      "spectral_type": "A0Vn"
+    },
+    {
+      "hr": 568,
+      "name": "Per",
+      "ra": 29.64,
+      "dec": 49.2042,
+      "magnitude": 5.69,
+      "spectral_type": "K0IV"
+    },
+    {
+      "hr": 569,
+      "name": "Ari",
+      "ra": 29.4821,
+      "dec": 23.5961,
+      "magnitude": 4.79,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 570,
+      "name": "Hyi",
+      "ra": 28.7337,
+      "dec": -67.6472,
+      "magnitude": 4.69,
+      "spectral_type": "G8.5III"
+    },
+    {
+      "hr": 574,
+      "name": null,
+      "ra": 29.2917,
+      "dec": -47.385,
+      "magnitude": 4.83,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 575,
+      "name": "Cas",
+      "ra": 30.4892,
+      "dec": 70.9069,
+      "magnitude": 4.54,
+      "spectral_type": "A3IV"
+    },
+    {
+      "hr": 577,
+      "name": null,
+      "ra": 29.8987,
+      "dec": 21.0583,
+      "magnitude": 5.87,
+      "spectral_type": "K0III-IV"
+    },
+    {
+      "hr": 580,
+      "name": "Cas",
+      "ra": 30.8587,
+      "dec": 72.4214,
+      "magnitude": 3.98,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 581,
+      "name": "Cas",
+      "ra": 31.2808,
+      "dec": 77.2814,
+      "magnitude": 5.38,
+      "spectral_type": "F0Vn"
+    },
+    {
+      "hr": 582,
+      "name": "Psc",
+      "ra": 30.0383,
+      "dec": 3.0972,
+      "magnitude": 5.88,
+      "spectral_type": "G2IV"
+    },
+    {
+      "hr": 583,
+      "name": "Cet",
+      "ra": 29.9421,
+      "dec": -20.8244,
+      "magnitude": 5.41,
+      "spectral_type": "M1III"
+    },
+    {
+      "hr": 585,
+      "name": "Cet",
+      "ra": 30.0013,
+      "dec": -21.0778,
+      "magnitude": 4.0,
+      "spectral_type": "M0III"
+    },
+    {
+      "hr": 587,
+      "name": null,
+      "ra": 30.1121,
+      "dec": -8.5236,
+      "magnitude": 5.51,
+      "spectral_type": "M3III"
+    },
+    {
+      "hr": 588,
+      "name": null,
+      "ra": 29.9117,
+      "dec": -42.0306,
+      "magnitude": 5.57,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 589,
+      "name": "Cas",
+      "ra": 30.7512,
+      "dec": 64.39,
+      "magnitude": 5.58,
+      "spectral_type": "B8Ib"
+    },
+    {
+      "hr": 590,
+      "name": "Per",
+      "ra": 30.5754,
+      "dec": 54.4875,
+      "magnitude": 5.04,
+      "spectral_type": "B8III"
+    },
+    {
+      "hr": 591,
+      "name": "Hyi",
+      "ra": 29.6925,
+      "dec": -61.5697,
+      "magnitude": 2.86,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 592,
+      "name": "Cas",
+      "ra": 31.38,
+      "dec": 76.115,
+      "magnitude": 5.22,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 594,
+      "name": "For",
+      "ra": 30.3113,
+      "dec": -30.0017,
+      "magnitude": 5.35,
+      "spectral_type": "G5III"
+    },
+    {
+      "hr": 595,
+      "name": "Psc",
+      "ra": 30.5117,
+      "dec": 2.7636,
+      "magnitude": 5.23,
+      "spectral_type": "A3m"
+    },
+    {
+      "hr": 596,
+      "name": "Psc",
+      "ra": 30.5117,
+      "dec": 2.7636,
+      "magnitude": 4.33,
+      "spectral_type": "A0pSiSr"
+    },
+    {
+      "hr": 599,
+      "name": "Tri",
+      "ra": 30.7417,
+      "dec": 33.2839,
+      "magnitude": 5.5,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 601,
+      "name": null,
+      "ra": 30.6467,
+      "dec": 13.4767,
+      "magnitude": 5.94,
+      "spectral_type": "M2III"
+    },
+    {
+      "hr": 602,
+      "name": "Phe",
+      "ra": 30.4267,
+      "dec": -44.7136,
+      "magnitude": 5.14,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 603,
+      "name": "And",
+      "ra": 30.975,
+      "dec": 42.3297,
+      "magnitude": 2.26,
+      "spectral_type": "K3-IIb"
+    },
+    {
+      "hr": 604,
+      "name": "And",
+      "ra": 30.9779,
+      "dec": 42.3308,
+      "magnitude": 4.84,
+      "spectral_type": "B8V+A0V"
+    },
+    {
+      "hr": 605,
+      "name": "Ari",
+      "ra": 30.9137,
+      "dec": 25.9356,
+      "magnitude": 5.63,
+      "spectral_type": "F8IV"
+    },
+    {
+      "hr": 607,
+      "name": "Cet",
+      "ra": 30.7987,
+      "dec": 0.1283,
+      "magnitude": 5.43,
+      "spectral_type": "A5III"
+    },
+    {
+      "hr": 608,
+      "name": null,
+      "ra": 30.7442,
+      "dec": -15.3058,
+      "magnitude": 5.86,
+      "spectral_type": "G3IV"
+    },
+    {
+      "hr": 610,
+      "name": "Cet",
+      "ra": 30.9508,
+      "dec": -0.3403,
+      "magnitude": 5.93,
+      "spectral_type": "G5II-III+G5V"
+    },
+    {
+      "hr": 611,
+      "name": null,
+      "ra": 30.9187,
+      "dec": -4.1036,
+      "magnitude": 5.62,
+      "spectral_type": "K5I:"
+    },
+    {
+      "hr": 612,
+      "name": "For",
+      "ra": 31.1225,
+      "dec": -29.2969,
+      "magnitude": 4.69,
+      "spectral_type": "B9.5pSi"
+    },
+    {
+      "hr": 613,
+      "name": "Ari",
+      "ra": 31.6412,
+      "dec": 22.6483,
+      "magnitude": 5.03,
+      "spectral_type": "A2m"
+    },
+    {
+      "hr": 617,
+      "name": "Ari",
+      "ra": 31.7933,
+      "dec": 23.4625,
+      "magnitude": 2.0,
+      "spectral_type": "K2-IIICa-1"
+    },
+    {
+      "hr": 618,
+      "name": null,
+      "ra": 32.1688,
+      "dec": 58.4236,
+      "magnitude": 5.67,
+      "spectral_type": "A1Ia"
+    },
+    {
+      "hr": 620,
+      "name": "And",
+      "ra": 32.1221,
+      "dec": 37.8592,
+      "magnitude": 4.82,
+      "spectral_type": "A5IV-V"
+    },
+    {
+      "hr": 622,
+      "name": "Tri",
+      "ra": 32.3858,
+      "dec": 34.9872,
+      "magnitude": 3.0,
+      "spectral_type": "A5III"
+    },
+    {
+      "hr": 623,
+      "name": "Ari",
+      "ra": 32.3554,
+      "dec": 25.9397,
+      "magnitude": 4.98,
+      "spectral_type": "F2III"
+    },
+    {
+      "hr": 628,
+      "name": "And",
+      "ra": 32.72,
+      "dec": 39.0394,
+      "magnitude": 5.63,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 631,
+      "name": "Ari",
+      "ra": 32.6567,
+      "dec": 19.5003,
+      "magnitude": 5.7,
+      "spectral_type": "M3IIIab"
+    },
+    {
+      "hr": 632,
+      "name": null,
+      "ra": 32.2888,
+      "dec": -43.5167,
+      "magnitude": 5.85,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 635,
+      "name": "Cet",
+      "ra": 32.8379,
+      "dec": 8.5697,
+      "magnitude": 5.63,
+      "spectral_type": "G0IV"
+    },
+    {
+      "hr": 639,
+      "name": "Cet",
+      "ra": 32.8992,
+      "dec": -1.8253,
+      "magnitude": 5.93,
+      "spectral_type": "gG9"
+    },
+    {
+      "hr": 642,
+      "name": "Tri",
+      "ra": 33.0929,
+      "dec": 30.3031,
+      "magnitude": 4.94,
+      "spectral_type": "G5III+F5V"
+    },
+    {
+      "hr": 643,
+      "name": "And",
+      "ra": 33.3054,
+      "dec": 44.2317,
+      "magnitude": 4.83,
+      "spectral_type": "K3.5IIIBa0.5:"
+    },
+    {
+      "hr": 644,
+      "name": null,
+      "ra": 33.1562,
+      "dec": 24.1678,
+      "magnitude": 5.96,
+      "spectral_type": "K0"
+    },
+    {
+      "hr": 645,
+      "name": null,
+      "ra": 33.4012,
+      "dec": 51.0658,
+      "magnitude": 5.31,
+      "spectral_type": "G8III:"
+    },
+    {
+      "hr": 646,
+      "name": "Ari",
+      "ra": 33.2004,
+      "dec": 21.2108,
+      "magnitude": 5.27,
+      "spectral_type": "F5V"
+    },
+    {
+      "hr": 648,
+      "name": "Ari",
+      "ra": 33.2638,
+      "dec": 15.2797,
+      "magnitude": 5.71,
+      "spectral_type": "M0III"
+    },
+    {
+      "hr": 649,
+      "name": "Cet",
+      "ra": 33.25,
+      "dec": 8.8467,
+      "magnitude": 4.37,
+      "spectral_type": "G6II-IIICN-2"
+    },
+    {
+      "hr": 650,
+      "name": "Cet",
+      "ra": 33.1979,
+      "dec": -2.3936,
+      "magnitude": 5.54,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 651,
+      "name": null,
+      "ra": 33.2537,
+      "dec": -21.0003,
+      "magnitude": 5.86,
+      "spectral_type": "G9III"
+    },
+    {
+      "hr": 652,
+      "name": "For",
+      "ra": 33.2271,
+      "dec": -30.7239,
+      "magnitude": 5.28,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 655,
+      "name": "Tri",
+      "ra": 33.9842,
+      "dec": 33.3589,
+      "magnitude": 5.28,
+      "spectral_type": "A0V"
+    },
+    {
+      "hr": 656,
+      "name": "Ari",
+      "ra": 33.9417,
+      "dec": 25.7831,
+      "magnitude": 5.79,
+      "spectral_type": "F6IV-V"
+    },
+    {
+      "hr": 657,
+      "name": "Ari",
+      "ra": 33.9283,
+      "dec": 25.0431,
+      "magnitude": 5.58,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 659,
+      "name": null,
+      "ra": 33.6333,
+      "dec": -41.1667,
+      "magnitude": 5.91,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 660,
+      "name": "Tri",
+      "ra": 34.2633,
+      "dec": 34.2242,
+      "magnitude": 4.87,
+      "spectral_type": "G0.5V"
+    },
+    {
+      "hr": 661,
+      "name": "Per",
+      "ra": 34.4996,
+      "dec": 57.8997,
+      "magnitude": 5.75,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 662,
+      "name": "Per",
+      "ra": 34.5187,
+      "dec": 57.5167,
+      "magnitude": 5.98,
+      "spectral_type": "G7III"
+    },
+    {
+      "hr": 664,
+      "name": "Tri",
+      "ra": 34.3287,
+      "dec": 33.8472,
+      "magnitude": 4.01,
+      "spectral_type": "A1Vnn"
+    },
+    {
+      "hr": 666,
+      "name": "Cet",
+      "ra": 34.2458,
+      "dec": -6.4222,
+      "magnitude": 5.51,
+      "spectral_type": "G8.5III"
+    },
+    {
+      "hr": 667,
+      "name": "Hyi",
+      "ra": 33.5613,
+      "dec": -67.8417,
+      "magnitude": 5.55,
+      "spectral_type": "M1III"
+    },
+    {
+      "hr": 669,
+      "name": "Ari",
+      "ra": 34.5312,
+      "dec": 19.9011,
+      "magnitude": 5.62,
+      "spectral_type": "A1Vn"
+    },
+    {
+      "hr": 670,
+      "name": "And",
+      "ra": 34.82,
+      "dec": 47.38,
+      "magnitude": 5.3,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 672,
+      "name": null,
+      "ra": 34.5058,
+      "dec": 1.7578,
+      "magnitude": 5.58,
+      "spectral_type": "G0.5IVb"
+    },
+    {
+      "hr": 674,
+      "name": "Eri",
+      "ra": 34.1275,
+      "dec": -51.5122,
+      "magnitude": 3.56,
+      "spectral_type": "B8V-IV"
+    },
+    {
+      "hr": 675,
+      "name": "Tri",
+      "ra": 34.7375,
+      "dec": 28.6425,
+      "magnitude": 5.03,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 678,
+      "name": "Hyi",
+      "ra": 33.8687,
+      "dec": -67.7464,
+      "magnitude": 5.69,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 681,
+      "name": "Cet",
+      "ra": 34.8362,
+      "dec": -2.9775,
+      "magnitude": 3.04,
+      "spectral_type": "M7IIIe+Bep"
+    },
+    {
+      "hr": 682,
+      "name": "And",
+      "ra": 35.2425,
+      "dec": 50.1514,
+      "magnitude": 5.59,
+      "spectral_type": "B9pSi"
+    },
+    {
+      "hr": 685,
+      "name": "Per",
+      "ra": 35.5892,
+      "dec": 55.8456,
+      "magnitude": 5.17,
+      "spectral_type": "A2Ia"
+    },
+    {
+      "hr": 687,
+      "name": null,
+      "ra": 35.7096,
+      "dec": 41.3964,
+      "magnitude": 5.82,
+      "spectral_type": "F0III-IV"
+    },
+    {
+      "hr": 688,
+      "name": null,
+      "ra": 34.9762,
+      "dec": -55.9447,
+      "magnitude": 5.81,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 689,
+      "name": "Cet",
+      "ra": 35.4858,
+      "dec": 0.3958,
+      "magnitude": 5.28,
+      "spectral_type": "M2III"
+    },
+    {
+      "hr": 691,
+      "name": "Cet",
+      "ra": 35.5517,
+      "dec": -0.885,
+      "magnitude": 5.42,
+      "spectral_type": "F0Vn"
+    },
+    {
+      "hr": 692,
+      "name": null,
+      "ra": 35.5058,
+      "dec": -10.7778,
+      "magnitude": 5.46,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 693,
+      "name": null,
+      "ra": 35.5208,
+      "dec": -17.6622,
+      "magnitude": 5.87,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 694,
+      "name": "And",
+      "ra": 36.1037,
+      "dec": 50.0067,
+      "magnitude": 5.19,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 695,
+      "name": "For",
+      "ra": 35.6358,
+      "dec": -23.8164,
+      "magnitude": 5.2,
+      "spectral_type": "G0Va"
+    },
+    {
+      "hr": 699,
+      "name": "And",
+      "ra": 36.4058,
+      "dec": 50.2786,
+      "magnitude": 4.71,
+      "spectral_type": "K4+III"
+    },
+    {
+      "hr": 701,
+      "name": null,
+      "ra": 35.7275,
+      "dec": -51.0922,
+      "magnitude": 5.92,
+      "spectral_type": "A5V"
+    },
+    {
+      "hr": 702,
+      "name": "Ari",
+      "ra": 36.2042,
+      "dec": 10.6106,
+      "magnitude": 5.47,
+      "spectral_type": "B7IV"
+    },
+    {
+      "hr": 705,
+      "name": "Hyi",
+      "ra": 35.4371,
+      "dec": -68.6594,
+      "magnitude": 4.09,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 707,
+      "name": "Cas",
+      "ra": 37.2667,
+      "dec": 67.4025,
+      "magnitude": 4.52,
+      "spectral_type": "A5pSr"
+    },
+    {
+      "hr": 708,
+      "name": "Cet",
+      "ra": 36.4875,
+      "dec": -12.2906,
+      "magnitude": 4.89,
+      "spectral_type": "B9.5Vn"
+    },
+    {
+      "hr": 710,
+      "name": null,
+      "ra": 36.5013,
+      "dec": -15.3411,
+      "magnitude": 5.83,
+      "spectral_type": "A6VpSrCr"
+    },
+    {
+      "hr": 712,
+      "name": "Tri",
+      "ra": 36.8654,
+      "dec": 31.8014,
+      "magnitude": 5.54,
+      "spectral_type": "gK1"
+    },
+    {
+      "hr": 713,
+      "name": null,
+      "ra": 36.6467,
+      "dec": -20.0428,
+      "magnitude": 5.88,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 714,
+      "name": "Hor",
+      "ra": 36.2246,
+      "dec": -60.3119,
+      "magnitude": 5.35,
+      "spectral_type": "F2III"
+    },
+    {
+      "hr": 715,
+      "name": "Hyi",
+      "ra": 35.7179,
+      "dec": -73.6458,
+      "magnitude": 5.01,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 717,
+      "name": "Tri",
+      "ra": 37.0417,
+      "dec": 29.6694,
+      "magnitude": 5.29,
+      "spectral_type": "F0III"
+    },
+    {
+      "hr": 718,
+      "name": "Cet",
+      "ra": 37.0396,
+      "dec": 8.46,
+      "magnitude": 4.28,
+      "spectral_type": "B9III"
+    },
+    {
+      "hr": 720,
+      "name": "Tri",
+      "ra": 37.2021,
+      "dec": 29.9319,
+      "magnitude": 5.89,
+      "spectral_type": "G0V"
+    },
+    {
+      "hr": 721,
+      "name": "Eri",
+      "ra": 36.7463,
+      "dec": -47.7039,
+      "magnitude": 4.25,
+      "spectral_type": "B5IV"
+    },
+    {
+      "hr": 724,
+      "name": "For",
+      "ra": 37.0071,
+      "dec": -33.8111,
+      "magnitude": 5.14,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 728,
+      "name": null,
+      "ra": 37.635,
+      "dec": 25.235,
+      "magnitude": 5.92,
+      "spectral_type": "F6IV"
+    },
+    {
+      "hr": 736,
+      "name": "Tri",
+      "ra": 38.0258,
+      "dec": 36.1472,
+      "magnitude": 5.15,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 737,
+      "name": null,
+      "ra": 37.8754,
+      "dec": 2.2672,
+      "magnitude": 5.25,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 738,
+      "name": null,
+      "ra": 38.2188,
+      "dec": 34.5425,
+      "magnitude": 5.83,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 739,
+      "name": "Cet",
+      "ra": 38.0392,
+      "dec": -1.035,
+      "magnitude": 5.35,
+      "spectral_type": "gG3"
+    },
+    {
+      "hr": 740,
+      "name": "Cet",
+      "ra": 38.0217,
+      "dec": -15.2447,
+      "magnitude": 4.75,
+      "spectral_type": "F4IV"
+    },
+    {
+      "hr": 743,
+      "name": null,
+      "ra": 39.5083,
+      "dec": 72.8183,
+      "magnitude": 5.16,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 744,
+      "name": "For",
+      "ra": 38.2792,
+      "dec": -34.65,
+      "magnitude": 5.9,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 747,
+      "name": null,
+      "ra": 39.4004,
+      "dec": 65.7456,
+      "magnitude": 5.78,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 748,
+      "name": null,
+      "ra": 38.9117,
+      "dec": 37.3122,
+      "magnitude": 5.71,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 749,
+      "name": "For",
+      "ra": 38.4612,
+      "dec": -28.2325,
+      "magnitude": 4.9,
+      "spectral_type": "B9.5V"
+    },
+    {
+      "hr": 750,
+      "name": "Tri",
+      "ra": 38.945,
+      "dec": 34.6875,
+      "magnitude": 5.35,
+      "spectral_type": "M3IIIa"
+    },
+    {
+      "hr": 752,
+      "name": "Cet",
+      "ra": 38.6779,
+      "dec": -7.8594,
+      "magnitude": 5.75,
+      "spectral_type": "gK4"
+    },
+    {
+      "hr": 753,
+      "name": null,
+      "ra": 39.0204,
+      "dec": 6.8869,
+      "magnitude": 5.82,
+      "spectral_type": "K3V"
+    },
+    {
+      "hr": 754,
+      "name": "Cet",
+      "ra": 38.9688,
+      "dec": 5.5933,
+      "magnitude": 4.86,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 756,
+      "name": null,
+      "ra": 39.2383,
+      "dec": 38.7328,
+      "magnitude": 5.9,
+      "spectral_type": "F5V"
+    },
+    {
+      "hr": 758,
+      "name": null,
+      "ra": 39.2604,
+      "dec": 34.2639,
+      "magnitude": 5.3,
+      "spectral_type": "M4IIIe"
+    },
+    {
+      "hr": 759,
+      "name": "Cet",
+      "ra": 39.0,
+      "dec": -7.8317,
+      "magnitude": 5.53,
+      "spectral_type": "M0III"
+    },
+    {
+      "hr": 763,
+      "name": "Ari",
+      "ra": 39.1579,
+      "dec": 12.4475,
+      "magnitude": 5.68,
+      "spectral_type": "F7V"
+    },
+    {
+      "hr": 766,
+      "name": null,
+      "ra": 39.1463,
+      "dec": 7.7297,
+      "magnitude": 5.81,
+      "spectral_type": "gK0"
+    },
+    {
+      "hr": 767,
+      "name": "For",
+      "ra": 39.0388,
+      "dec": -30.0447,
+      "magnitude": 5.75,
+      "spectral_type": "G8-K0III"
+    },
+    {
+      "hr": 771,
+      "name": "Cet",
+      "ra": 39.4242,
+      "dec": -3.3961,
+      "magnitude": 5.65,
+      "spectral_type": "gG5"
+    },
+    {
+      "hr": 772,
+      "name": "For",
+      "ra": 39.2442,
+      "dec": -34.5783,
+      "magnitude": 5.79,
+      "spectral_type": "G5IV"
+    },
+    {
+      "hr": 773,
+      "name": "Ari",
+      "ra": 39.7042,
+      "dec": 21.9614,
+      "magnitude": 5.43,
+      "spectral_type": "A7V"
+    },
+    {
+      "hr": 774,
+      "name": null,
+      "ra": 41.9483,
+      "dec": 81.4483,
+      "magnitude": 5.78,
+      "spectral_type": "G8pBa3"
+    },
+    {
+      "hr": 776,
+      "name": "Hyi",
+      "ra": 37.9187,
+      "dec": -79.1094,
+      "magnitude": 5.28,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 777,
+      "name": "For",
+      "ra": 39.5779,
+      "dec": -30.1942,
+      "magnitude": 5.83,
+      "spectral_type": "F4V"
+    },
+    {
+      "hr": 778,
+      "name": "Hor",
+      "ra": 39.3517,
+      "dec": -52.5431,
+      "magnitude": 5.31,
+      "spectral_type": "A6V"
+    },
+    {
+      "hr": 779,
+      "name": "Cet",
+      "ra": 39.8708,
+      "dec": 0.3286,
+      "magnitude": 4.07,
+      "spectral_type": "B2IV"
+    },
+    {
+      "hr": 781,
+      "name": "Cet",
+      "ra": 39.8908,
+      "dec": -11.8722,
+      "magnitude": 4.84,
+      "spectral_type": "F5V+F6V"
+    },
+    {
+      "hr": 782,
+      "name": "Ari",
+      "ra": 40.1713,
+      "dec": 27.0608,
+      "magnitude": 5.3,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 784,
+      "name": null,
+      "ra": 40.0513,
+      "dec": -9.4531,
+      "magnitude": 5.78,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 785,
+      "name": "Per",
+      "ra": 40.7617,
+      "dec": 55.1058,
+      "magnitude": 5.77,
+      "spectral_type": "B7IIIpHg"
+    },
+    {
+      "hr": 787,
+      "name": null,
+      "ra": 40.7488,
+      "dec": 53.5261,
+      "magnitude": 5.84,
+      "spectral_type": "K0II-III"
+    },
+    {
+      "hr": 788,
+      "name": "Per",
+      "ra": 40.5621,
+      "dec": 40.1939,
+      "magnitude": 4.91,
+      "spectral_type": "F9V"
+    },
+    {
+      "hr": 789,
+      "name": null,
+      "ra": 39.95,
+      "dec": -42.8917,
+      "magnitude": 4.75,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 790,
+      "name": "Cet",
+      "ra": 40.3079,
+      "dec": -0.6958,
+      "magnitude": 5.71,
+      "spectral_type": "F7IV"
+    },
+    {
+      "hr": 791,
+      "name": null,
+      "ra": 41.2071,
+      "dec": 67.8247,
+      "magnitude": 5.95,
+      "spectral_type": "A5III"
+    },
+    {
+      "hr": 793,
+      "name": "Ari",
+      "ra": 40.5917,
+      "dec": 20.0117,
+      "magnitude": 5.69,
+      "spectral_type": "A0Vnp:"
+    },
+    {
+      "hr": 794,
+      "name": "Eri",
+      "ra": 40.1667,
+      "dec": -39.8556,
+      "magnitude": 4.11,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 796,
+      "name": null,
+      "ra": 40.3917,
+      "dec": -14.5494,
+      "magnitude": 5.98,
+      "spectral_type": "F5III:"
+    },
+    {
+      "hr": 799,
+      "name": "Per",
+      "ra": 41.05,
+      "dec": 49.2283,
+      "magnitude": 4.12,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 800,
+      "name": "Per",
+      "ra": 41.0217,
+      "dec": 44.2969,
+      "magnitude": 5.43,
+      "spectral_type": "G0Ib-IICa1CH-1"
+    },
+    {
+      "hr": 801,
+      "name": "Ari",
+      "ra": 40.8629,
+      "dec": 27.7072,
+      "magnitude": 4.66,
+      "spectral_type": "B3V"
+    },
+    {
+      "hr": 802,
+      "name": "Hor",
+      "ra": 40.165,
+      "dec": -54.55,
+      "magnitude": 5.21,
+      "spectral_type": "F4IV"
+    },
+    {
+      "hr": 804,
+      "name": "Cet",
+      "ra": 40.825,
+      "dec": 3.2358,
+      "magnitude": 3.47,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 806,
+      "name": "Hyi",
+      "ra": 39.8975,
+      "dec": -68.2669,
+      "magnitude": 4.11,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 809,
+      "name": "Ari",
+      "ra": 41.1371,
+      "dec": 15.3117,
+      "magnitude": 5.77,
+      "spectral_type": "B9Vn"
+    },
+    {
+      "hr": 810,
+      "name": "Hor",
+      "ra": 40.6396,
+      "dec": -50.8003,
+      "magnitude": 5.41,
+      "spectral_type": "G0V"
+    },
+    {
+      "hr": 811,
+      "name": "Cet",
+      "ra": 41.0308,
+      "dec": -13.8586,
+      "magnitude": 4.25,
+      "spectral_type": "B7V"
+    },
+    {
+      "hr": 812,
+      "name": "Ari",
+      "ra": 41.24,
+      "dec": 12.4458,
+      "magnitude": 5.18,
+      "spectral_type": "A7III-IV"
+    },
+    {
+      "hr": 813,
+      "name": "Cet",
+      "ra": 41.2354,
+      "dec": 10.1142,
+      "magnitude": 4.27,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 818,
+      "name": "Eri",
+      "ra": 41.2758,
+      "dec": -18.5725,
+      "magnitude": 4.47,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 824,
+      "name": "Ari",
+      "ra": 41.9771,
+      "dec": 29.2472,
+      "magnitude": 4.51,
+      "spectral_type": "K1.5III"
+    },
+    {
+      "hr": 828,
+      "name": "Ari",
+      "ra": 42.1337,
+      "dec": 18.2836,
+      "magnitude": 5.82,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 829,
+      "name": null,
+      "ra": 42.9946,
+      "dec": 68.8886,
+      "magnitude": 5.8,
+      "spectral_type": "F5:Ib-II"
+    },
+    {
+      "hr": 830,
+      "name": null,
+      "ra": 42.1912,
+      "dec": 25.1881,
+      "magnitude": 5.86,
+      "spectral_type": "A0V"
+    },
+    {
+      "hr": 833,
+      "name": "Hor",
+      "ra": 41.3646,
+      "dec": -63.7044,
+      "magnitude": 5.74,
+      "spectral_type": "G8III-IV"
+    },
+    {
+      "hr": 834,
+      "name": "Per",
+      "ra": 42.6742,
+      "dec": 55.8956,
+      "magnitude": 3.76,
+      "spectral_type": "K3-Ib-IIa"
+    },
+    {
+      "hr": 836,
+      "name": "Ari",
+      "ra": 42.3229,
+      "dec": 17.4642,
+      "magnitude": 5.22,
+      "spectral_type": "B6V"
+    },
+    {
+      "hr": 837,
+      "name": "Hyi",
+      "ra": 41.3858,
+      "dec": -67.6167,
+      "magnitude": 4.84,
+      "spectral_type": "A2IV-V"
+    },
+    {
+      "hr": 838,
+      "name": "Ari",
+      "ra": 42.4958,
+      "dec": 27.2606,
+      "magnitude": 3.63,
+      "spectral_type": "B8Vn"
+    },
+    {
+      "hr": 840,
+      "name": "Per",
+      "ra": 42.6463,
+      "dec": 38.3186,
+      "magnitude": 4.23,
+      "spectral_type": "F2III"
+    },
+    {
+      "hr": 841,
+      "name": "For",
+      "ra": 42.2725,
+      "dec": -32.4058,
+      "magnitude": 4.46,
+      "spectral_type": "K0-IIIFe-0.5"
+    },
+    {
+      "hr": 842,
+      "name": null,
+      "ra": 42.9237,
+      "dec": 46.8419,
+      "magnitude": 5.88,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 843,
+      "name": "Per",
+      "ra": 42.8783,
+      "dec": 35.0597,
+      "magnitude": 4.53,
+      "spectral_type": "K5+III"
+    },
+    {
+      "hr": 845,
+      "name": "For",
+      "ra": 42.4758,
+      "dec": -27.9417,
+      "magnitude": 5.39,
+      "spectral_type": "A0V"
+    },
+    {
+      "hr": 847,
+      "name": "Ari",
+      "ra": 42.8733,
+      "dec": 15.0819,
+      "magnitude": 5.49,
+      "spectral_type": "B7V"
+    },
+    {
+      "hr": 848,
+      "name": "For",
+      "ra": 42.5617,
+      "dec": -35.8436,
+      "magnitude": 5.92,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 850,
+      "name": "Eri",
+      "ra": 42.7596,
+      "dec": -21.0042,
+      "magnitude": 4.75,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 851,
+      "name": "For",
+      "ra": 42.6683,
+      "dec": -35.6761,
+      "magnitude": 5.47,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 852,
+      "name": "Hor",
+      "ra": 42.2562,
+      "dec": -62.8067,
+      "magnitude": 5.26,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 854,
+      "name": "Per",
+      "ra": 43.5646,
+      "dec": 52.7625,
+      "magnitude": 3.95,
+      "spectral_type": "G4III+A4V"
+    },
+    {
+      "hr": 855,
+      "name": "Per",
+      "ra": 43.4275,
+      "dec": 38.3375,
+      "magnitude": 5.33,
+      "spectral_type": "F4IV"
+    },
+    {
+      "hr": 860,
+      "name": null,
+      "ra": 43.9871,
+      "dec": 61.5211,
+      "magnitude": 5.59,
+      "spectral_type": "F4V"
+    },
+    {
+      "hr": 862,
+      "name": null,
+      "ra": 43.3971,
+      "dec": -22.3764,
+      "magnitude": 5.95,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 863,
+      "name": "For",
+      "ra": 43.3933,
+      "dec": -38.4369,
+      "magnitude": 5.92,
+      "spectral_type": "F6IV"
+    },
+    {
+      "hr": 867,
+      "name": "Ari",
+      "ra": 43.9521,
+      "dec": 18.3317,
+      "magnitude": 5.91,
+      "spectral_type": "M6-III:"
+    },
+    {
+      "hr": 868,
+      "name": null,
+      "ra": 43.4704,
+      "dec": -49.8903,
+      "magnitude": 4.0,
+      "spectral_type": "M7IIIe"
+    },
+    {
+      "hr": 869,
+      "name": "Ari",
+      "ra": 44.1088,
+      "dec": 18.0231,
+      "magnitude": 5.63,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 870,
+      "name": null,
+      "ra": 44.0575,
+      "dec": 8.3817,
+      "magnitude": 5.97,
+      "spectral_type": "F7IV"
+    },
+    {
+      "hr": 872,
+      "name": "Hyi",
+      "ra": 42.6187,
+      "dec": -75.0669,
+      "magnitude": 4.75,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 873,
+      "name": "Per",
+      "ra": 44.3221,
+      "dec": 31.9342,
+      "magnitude": 5.11,
+      "spectral_type": "B9pSi"
+    },
+    {
+      "hr": 874,
+      "name": "Eri",
+      "ra": 44.1071,
+      "dec": -8.8981,
+      "magnitude": 3.89,
+      "spectral_type": "K1-IIIbBa0.2:"
+    },
+    {
+      "hr": 875,
+      "name": null,
+      "ra": 44.1558,
+      "dec": -3.7122,
+      "magnitude": 5.17,
+      "spectral_type": "A1Vn"
+    },
+    {
+      "hr": 878,
+      "name": "Ari",
+      "ra": 44.5217,
+      "dec": 20.6686,
+      "magnitude": 5.8,
+      "spectral_type": "F5IV"
+    },
+    {
+      "hr": 879,
+      "name": "Per",
+      "ra": 44.6904,
+      "dec": 39.6628,
+      "magnitude": 4.7,
+      "spectral_type": "A2Vn"
+    },
+    {
+      "hr": 881,
+      "name": null,
+      "ra": 46.5325,
+      "dec": 79.4186,
+      "magnitude": 5.49,
+      "spectral_type": "M1III+F7IV"
+    },
+    {
+      "hr": 882,
+      "name": "Per",
+      "ra": 44.7654,
+      "dec": 35.1831,
+      "magnitude": 4.93,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 883,
+      "name": "Eri",
+      "ra": 44.3488,
+      "dec": -23.8619,
+      "magnitude": 5.45,
+      "spectral_type": "A5V"
+    },
+    {
+      "hr": 885,
+      "name": null,
+      "ra": 44.9579,
+      "dec": 47.2208,
+      "magnitude": 5.47,
+      "spectral_type": "G5:III*"
+    },
+    {
+      "hr": 886,
+      "name": null,
+      "ra": 44.9162,
+      "dec": 41.0331,
+      "magnitude": 5.89,
+      "spectral_type": "K2"
+    },
+    {
+      "hr": 887,
+      "name": "Ari",
+      "ra": 44.8029,
+      "dec": 21.3403,
+      "magnitude": 4.63,
+      "spectral_type": "A2V s"
+    },
+    {
+      "hr": 888,
+      "name": "Ari",
+      "ra": 44.8029,
+      "dec": 21.3403,
+      "magnitude": 4.63,
+      "spectral_type": "A2V s"
+    },
+    {
+      "hr": 889,
+      "name": "Eri",
+      "ra": 44.5238,
+      "dec": -23.6061,
+      "magnitude": 5.84,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 890,
+      "name": null,
+      "ra": 45.2175,
+      "dec": 52.3517,
+      "magnitude": 5.28,
+      "spectral_type": "B7V"
+    },
+    {
+      "hr": 892,
+      "name": null,
+      "ra": 44.675,
+      "dec": -2.7825,
+      "magnitude": 5.23,
+      "spectral_type": "A2IV"
+    },
+    {
+      "hr": 896,
+      "name": "Cet",
+      "ra": 44.9288,
+      "dec": 8.9075,
+      "magnitude": 4.7,
+      "spectral_type": "B6III"
+    },
+    {
+      "hr": 897,
+      "name": "Eri",
+      "ra": 44.5654,
+      "dec": -40.3047,
+      "magnitude": 3.24,
+      "spectral_type": "A4III"
+    },
+    {
+      "hr": 898,
+      "name": "Eri",
+      "ra": 44.5679,
+      "dec": -40.3044,
+      "magnitude": 4.35,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 899,
+      "name": "Eri",
+      "ra": 44.9217,
+      "dec": -2.465,
+      "magnitude": 5.56,
+      "spectral_type": "B9.5V"
+    },
+    {
+      "hr": 901,
+      "name": "For",
+      "ra": 44.9004,
+      "dec": -25.2742,
+      "magnitude": 5.71,
+      "spectral_type": "F2V"
+    },
+    {
+      "hr": 902,
+      "name": null,
+      "ra": 45.1837,
+      "dec": 10.8703,
+      "magnitude": 5.95,
+      "spectral_type": "K6"
+    },
+    {
+      "hr": 905,
+      "name": "Ari",
+      "ra": 45.4754,
+      "dec": 26.4622,
+      "magnitude": 5.9,
+      "spectral_type": "A3m"
+    },
+    {
+      "hr": 906,
+      "name": null,
+      "ra": 47.9283,
+      "dec": 81.4706,
+      "magnitude": 5.95,
+      "spectral_type": "A7III-IV"
+    },
+    {
+      "hr": 907,
+      "name": "Eri",
+      "ra": 45.2917,
+      "dec": -7.6628,
+      "magnitude": 5.75,
+      "spectral_type": "K0II"
+    },
+    {
+      "hr": 909,
+      "name": "Hor",
+      "ra": 44.6992,
+      "dec": -64.0714,
+      "magnitude": 4.99,
+      "spectral_type": "A3-5IIIm:"
+    },
+    {
+      "hr": 910,
+      "name": "Cet",
+      "ra": 45.5938,
+      "dec": 4.3528,
+      "magnitude": 5.61,
+      "spectral_type": "B7V"
+    },
+    {
+      "hr": 911,
+      "name": "Cet",
+      "ra": 45.57,
+      "dec": 4.0897,
+      "magnitude": 2.53,
+      "spectral_type": "M1.5IIIa"
+    },
+    {
+      "hr": 912,
+      "name": null,
+      "ra": 45.4838,
+      "dec": -9.9614,
+      "magnitude": 5.83,
+      "spectral_type": "gG6"
+    },
+    {
+      "hr": 914,
+      "name": "For",
+      "ra": 45.4071,
+      "dec": -28.0917,
+      "magnitude": 5.89,
+      "spectral_type": "G5IV"
+    },
+    {
+      "hr": 915,
+      "name": "Per",
+      "ra": 46.1992,
+      "dec": 53.5064,
+      "magnitude": 2.93,
+      "spectral_type": "G8III+A2V"
+    },
+    {
+      "hr": 917,
+      "name": "Eri",
+      "ra": 45.6763,
+      "dec": -7.6853,
+      "magnitude": 5.32,
+      "spectral_type": "K0II-III"
+    },
+    {
+      "hr": 918,
+      "name": null,
+      "ra": 46.385,
+      "dec": 56.7058,
+      "magnitude": 4.76,
+      "spectral_type": "G9.5III"
+    },
+    {
+      "hr": 919,
+      "name": "Eri",
+      "ra": 45.5979,
+      "dec": -23.6244,
+      "magnitude": 4.09,
+      "spectral_type": "A4IV"
+    },
+    {
+      "hr": 921,
+      "name": "Per",
+      "ra": 46.2942,
+      "dec": 38.8403,
+      "magnitude": 3.39,
+      "spectral_type": "M4II"
+    },
+    {
+      "hr": 922,
+      "name": null,
+      "ra": 46.8292,
+      "dec": 64.0578,
+      "magnitude": 5.89,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 925,
+      "name": "Eri",
+      "ra": 46.0683,
+      "dec": -7.6008,
+      "magnitude": 5.26,
+      "spectral_type": "A8V"
+    },
+    {
+      "hr": 929,
+      "name": null,
+      "ra": 45.7329,
+      "dec": -46.975,
+      "magnitude": 5.82,
+      "spectral_type": "K2-3III"
+    },
+    {
+      "hr": 931,
+      "name": null,
+      "ra": 46.5988,
+      "dec": 13.1872,
+      "magnitude": 5.62,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 932,
+      "name": null,
+      "ra": 47.9846,
+      "dec": 74.3936,
+      "magnitude": 4.87,
+      "spectral_type": "A2Vnn"
+    },
+    {
+      "hr": 934,
+      "name": "Hor",
+      "ra": 45.9033,
+      "dec": -59.7378,
+      "magnitude": 5.11,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 935,
+      "name": null,
+      "ra": 46.6396,
+      "dec": -6.0886,
+      "magnitude": 5.27,
+      "spectral_type": "M3III"
+    },
+    {
+      "hr": 936,
+      "name": "Per",
+      "ra": 47.0421,
+      "dec": 40.9556,
+      "magnitude": 2.12,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 937,
+      "name": "Per",
+      "ra": 47.2667,
+      "dec": 49.6133,
+      "magnitude": 4.05,
+      "spectral_type": "G0V"
+    },
+    {
+      "hr": 939,
+      "name": "Hyi",
+      "ra": 45.5642,
+      "dec": -71.9025,
+      "magnitude": 5.53,
+      "spectral_type": "B3V+A0IV"
+    },
+    {
+      "hr": 941,
+      "name": "Per",
+      "ra": 47.3742,
+      "dec": 44.8572,
+      "magnitude": 3.8,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 944,
+      "name": "Ari",
+      "ra": 47.4029,
+      "dec": 29.0769,
+      "magnitude": 5.72,
+      "spectral_type": "B8III"
+    },
+    {
+      "hr": 947,
+      "name": "Per",
+      "ra": 47.8225,
+      "dec": 39.6117,
+      "magnitude": 4.63,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 948,
+      "name": null,
+      "ra": 47.6621,
+      "dec": 11.8725,
+      "magnitude": 5.98,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 951,
+      "name": "Ari",
+      "ra": 47.9075,
+      "dec": 19.7267,
+      "magnitude": 4.35,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 954,
+      "name": "Ari",
+      "ra": 48.0592,
+      "dec": 27.2569,
+      "magnitude": 5.79,
+      "spectral_type": "B9pSi"
+    },
+    {
+      "hr": 956,
+      "name": null,
+      "ra": 48.35,
+      "dec": 48.1769,
+      "magnitude": 5.9,
+      "spectral_type": "G9III"
+    },
+    {
+      "hr": 958,
+      "name": null,
+      "ra": 48.11,
+      "dec": 6.6608,
+      "magnitude": 5.56,
+      "spectral_type": "K1IIIep+A6V"
+    },
+    {
+      "hr": 961,
+      "name": null,
+      "ra": 50.0821,
+      "dec": 77.7347,
+      "magnitude": 5.45,
+      "spectral_type": "A6V"
+    },
+    {
+      "hr": 962,
+      "name": "Cet",
+      "ra": 48.1933,
+      "dec": -1.1961,
+      "magnitude": 5.06,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 963,
+      "name": "For",
+      "ra": 48.0179,
+      "dec": -28.9869,
+      "magnitude": 3.87,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 964,
+      "name": null,
+      "ra": 48.95,
+      "dec": 57.1408,
+      "magnitude": 5.79,
+      "spectral_type": "A0Ia"
+    },
+    {
+      "hr": 965,
+      "name": null,
+      "ra": 53.0838,
+      "dec": 84.9111,
+      "magnitude": 5.61,
+      "spectral_type": "G3IIp:+F0:V"
+    },
+    {
+      "hr": 968,
+      "name": null,
+      "ra": 48.1075,
+      "dec": -44.4197,
+      "magnitude": 5.93,
+      "spectral_type": "F7III+A0V"
+    },
+    {
+      "hr": 969,
+      "name": null,
+      "ra": 49.0508,
+      "dec": 50.9378,
+      "magnitude": 5.03,
+      "spectral_type": "G6Ib-IIa"
+    },
+    {
+      "hr": 971,
+      "name": null,
+      "ra": 48.8354,
+      "dec": 30.5567,
+      "magnitude": 5.52,
+      "spectral_type": "A1V s"
+    },
+    {
+      "hr": 972,
+      "name": "Ari",
+      "ra": 48.7254,
+      "dec": 21.0444,
+      "magnitude": 4.89,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 977,
+      "name": null,
+      "ra": 48.1383,
+      "dec": -57.3217,
+      "magnitude": 5.74,
+      "spectral_type": "C5II"
+    },
+    {
+      "hr": 981,
+      "name": null,
+      "ra": 46.8833,
+      "dec": -78.9894,
+      "magnitude": 5.57,
+      "spectral_type": "F2II-III"
+    },
+    {
+      "hr": 982,
+      "name": "Per",
+      "ra": 49.4475,
+      "dec": 44.025,
+      "magnitude": 5.47,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 984,
+      "name": "Eri",
+      "ra": 48.9583,
+      "dec": -8.8197,
+      "magnitude": 4.8,
+      "spectral_type": "A5m"
+    },
+    {
+      "hr": 985,
+      "name": null,
+      "ra": 49.9975,
+      "dec": 65.6522,
+      "magnitude": 4.84,
+      "spectral_type": "B2.5Ven"
+    },
+    {
+      "hr": 986,
+      "name": null,
+      "ra": 49.4408,
+      "dec": 39.2833,
+      "magnitude": 5.96,
+      "spectral_type": "A2IV"
+    },
+    {
+      "hr": 987,
+      "name": "Per",
+      "ra": 49.6575,
+      "dec": 50.2222,
+      "magnitude": 5.15,
+      "spectral_type": "B3V"
+    },
+    {
+      "hr": 989,
+      "name": "Per",
+      "ra": 49.7817,
+      "dec": 50.095,
+      "magnitude": 5.03,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 991,
+      "name": null,
+      "ra": 49.6825,
+      "dec": 34.2228,
+      "magnitude": 4.82,
+      "spectral_type": "K2IICN1"
+    },
+    {
+      "hr": 992,
+      "name": "Cet",
+      "ra": 49.5933,
+      "dec": -0.9303,
+      "magnitude": 5.38,
+      "spectral_type": "G9IV"
+    },
+    {
+      "hr": 993,
+      "name": null,
+      "ra": 49.5117,
+      "dec": -28.7969,
+      "magnitude": 5.91,
+      "spectral_type": "F3V+A8-9"
+    },
+    {
+      "hr": 994,
+      "name": "Eri",
+      "ra": 49.5921,
+      "dec": -22.5114,
+      "magnitude": 4.88,
+      "spectral_type": "G6III"
+    },
+    {
+      "hr": 995,
+      "name": "Ari",
+      "ra": 49.9825,
+      "dec": 27.0711,
+      "magnitude": 5.9,
+      "spectral_type": "G6IV"
+    },
+    {
+      "hr": 996,
+      "name": "Cet",
+      "ra": 49.8404,
+      "dec": 3.3703,
+      "magnitude": 4.83,
+      "spectral_type": "G5V"
+    },
+    {
+      "hr": 997,
+      "name": null,
+      "ra": 49.6717,
+      "dec": -18.5597,
+      "magnitude": 5.71,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 998,
+      "name": null,
+      "ra": 49.3608,
+      "dec": -47.7517,
+      "magnitude": 5.85,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 999,
+      "name": null,
+      "ra": 50.085,
+      "dec": 29.0483,
+      "magnitude": 4.47,
+      "spectral_type": "K2II-III"
+    },
+    {
+      "hr": 1001,
+      "name": null,
+      "ra": 50.4692,
+      "dec": 49.0708,
+      "magnitude": 5.93,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 1002,
+      "name": "Per",
+      "ra": 50.3604,
+      "dec": 43.3294,
+      "magnitude": 4.95,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 1003,
+      "name": "Eri",
+      "ra": 49.8792,
+      "dec": -21.7578,
+      "magnitude": 3.69,
+      "spectral_type": "M3.5IIIaCa-1"
+    },
+    {
+      "hr": 1004,
+      "name": null,
+      "ra": 49.895,
+      "dec": -24.1231,
+      "magnitude": 5.61,
+      "spectral_type": "M2III"
+    },
+    {
+      "hr": 1005,
+      "name": "Ari",
+      "ra": 50.3067,
+      "dec": 21.1469,
+      "magnitude": 5.28,
+      "spectral_type": "B5IV"
+    },
+    {
+      "hr": 1006,
+      "name": "Ret",
+      "ra": 49.4425,
+      "dec": -62.5753,
+      "magnitude": 5.54,
+      "spectral_type": "G2.5VFe1Hdel 1"
+    },
+    {
+      "hr": 1007,
+      "name": "Cet",
+      "ra": 50.2783,
+      "dec": 3.6756,
+      "magnitude": 5.69,
+      "spectral_type": "G8.5III"
+    },
+    {
+      "hr": 1008,
+      "name": null,
+      "ra": 49.9821,
+      "dec": -43.0697,
+      "magnitude": 4.27,
+      "spectral_type": "G8V"
+    },
+    {
+      "hr": 1009,
+      "name": null,
+      "ra": 51.1687,
+      "dec": 64.5861,
+      "magnitude": 5.23,
+      "spectral_type": "M0II"
+    },
+    {
+      "hr": 1010,
+      "name": "Ret",
+      "ra": 49.5537,
+      "dec": -62.5064,
+      "magnitude": 5.24,
+      "spectral_type": "G1V"
+    },
+    {
+      "hr": 1011,
+      "name": null,
+      "ra": 50.805,
+      "dec": 49.2133,
+      "magnitude": 5.29,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 1012,
+      "name": "Ari",
+      "ra": 50.5496,
+      "dec": 27.6075,
+      "magnitude": 5.52,
+      "spectral_type": "G5III"
+    },
+    {
+      "hr": 1015,
+      "name": "Ari",
+      "ra": 50.6883,
+      "dec": 20.7419,
+      "magnitude": 5.09,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 1016,
+      "name": null,
+      "ra": 50.35,
+      "dec": -23.6353,
+      "magnitude": 5.52,
+      "spectral_type": "G6.5IIbCN-1Hdel -1"
+    },
+    {
+      "hr": 1017,
+      "name": "Per",
+      "ra": 51.0808,
+      "dec": 49.8611,
+      "magnitude": 1.79,
+      "spectral_type": "F5Ib"
+    },
+    {
+      "hr": 1019,
+      "name": null,
+      "ra": 51.1237,
+      "dec": 33.5358,
+      "magnitude": 5.61,
+      "spectral_type": "A0V"
+    },
+    {
+      "hr": 1022,
+      "name": "Ari",
+      "ra": 51.0771,
+      "dec": 24.7242,
+      "magnitude": 5.5,
+      "spectral_type": "gK4"
+    },
+    {
+      "hr": 1025,
+      "name": "Hyi",
+      "ra": 48.99,
+      "dec": -77.3883,
+      "magnitude": 5.52,
+      "spectral_type": "F4III"
+    },
+    {
+      "hr": 1030,
+      "name": "Tau",
+      "ra": 51.2033,
+      "dec": 9.0289,
+      "magnitude": 3.6,
+      "spectral_type": "G6IIIFe-1"
+    },
+    {
+      "hr": 1034,
+      "name": null,
+      "ra": 52.0129,
+      "dec": 49.0628,
+      "magnitude": 4.98,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 1035,
+      "name": null,
+      "ra": 52.2671,
+      "dec": 59.9403,
+      "magnitude": 4.21,
+      "spectral_type": "B9Ia"
+    },
+    {
+      "hr": 1037,
+      "name": null,
+      "ra": 52.2183,
+      "dec": 49.8483,
+      "magnitude": 5.58,
+      "spectral_type": "B6Vn"
+    },
+    {
+      "hr": 1038,
+      "name": "Tau",
+      "ra": 51.7925,
+      "dec": 9.7328,
+      "magnitude": 3.74,
+      "spectral_type": "B9Vn"
+    },
+    {
+      "hr": 1040,
+      "name": null,
+      "ra": 52.4787,
+      "dec": 58.8786,
+      "magnitude": 4.54,
+      "spectral_type": "A0Ia"
+    },
+    {
+      "hr": 1041,
+      "name": null,
+      "ra": 52.0867,
+      "dec": 33.8075,
+      "magnitude": 5.61,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 1044,
+      "name": "Per",
+      "ra": 52.3421,
+      "dec": 49.5089,
+      "magnitude": 4.67,
+      "spectral_type": "B3V"
+    },
+    {
+      "hr": 1045,
+      "name": null,
+      "ra": 51.5938,
+      "dec": -27.3175,
+      "magnitude": 5.93,
+      "spectral_type": "G5III"
+    },
+    {
+      "hr": 1046,
+      "name": null,
+      "ra": 52.5008,
+      "dec": 55.4519,
+      "magnitude": 5.09,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 1050,
+      "name": null,
+      "ra": 52.0042,
+      "dec": -11.2867,
+      "magnitude": 5.73,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1051,
+      "name": null,
+      "ra": 52.6542,
+      "dec": 48.1036,
+      "magnitude": 5.82,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1052,
+      "name": "Per",
+      "ra": 52.6438,
+      "dec": 47.9953,
+      "magnitude": 4.36,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 1054,
+      "name": "For",
+      "ra": 51.8892,
+      "dec": -35.6814,
+      "magnitude": 5.71,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1060,
+      "name": null,
+      "ra": 52.4129,
+      "dec": -6.805,
+      "magnitude": 5.99,
+      "spectral_type": "G5"
+    },
+    {
+      "hr": 1061,
+      "name": "Tau",
+      "ra": 52.6021,
+      "dec": 11.3364,
+      "magnitude": 5.14,
+      "spectral_type": "A0Vn"
+    },
+    {
+      "hr": 1062,
+      "name": null,
+      "ra": 52.4,
+      "dec": -12.6747,
+      "magnitude": 5.59,
+      "spectral_type": "A5IV"
+    },
+    {
+      "hr": 1063,
+      "name": null,
+      "ra": 53.0358,
+      "dec": 48.0236,
+      "magnitude": 5.47,
+      "spectral_type": "B8IIIpMn"
+    },
+    {
+      "hr": 1064,
+      "name": null,
+      "ra": 51.4008,
+      "dec": -69.3364,
+      "magnitude": 5.96,
+      "spectral_type": "F3-5IV"
+    },
+    {
+      "hr": 1065,
+      "name": null,
+      "ra": 52.8367,
+      "dec": 27.5719,
+      "magnitude": 5.96,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 1066,
+      "name": "Tau",
+      "ra": 52.7183,
+      "dec": 12.9367,
+      "magnitude": 4.11,
+      "spectral_type": "K0II-IIIFe-0.5"
+    },
+    {
+      "hr": 1067,
+      "name": null,
+      "ra": 52.6892,
+      "dec": 6.1886,
+      "magnitude": 5.94,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 1069,
+      "name": "Per",
+      "ra": 53.1096,
+      "dec": 46.0569,
+      "magnitude": 5.31,
+      "spectral_type": "F4III"
+    },
+    {
+      "hr": 1070,
+      "name": "Eri",
+      "ra": 52.6546,
+      "dec": -5.0753,
+      "magnitude": 4.73,
+      "spectral_type": "B9V s"
+    },
+    {
+      "hr": 1073,
+      "name": null,
+      "ra": 53.4125,
+      "dec": 54.9747,
+      "magnitude": 5.98,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 1074,
+      "name": null,
+      "ra": 53.1667,
+      "dec": 35.4617,
+      "magnitude": 5.9,
+      "spectral_type": "B1V"
+    },
+    {
+      "hr": 1075,
+      "name": null,
+      "ra": 52.4792,
+      "dec": -42.6342,
+      "magnitude": 5.78,
+      "spectral_type": "A5V"
+    },
+    {
+      "hr": 1078,
+      "name": null,
+      "ra": 53.3962,
+      "dec": 39.8994,
+      "magnitude": 5.81,
+      "spectral_type": "A5m"
+    },
+    {
+      "hr": 1079,
+      "name": "Tau",
+      "ra": 53.15,
+      "dec": 9.3736,
+      "magnitude": 5.77,
+      "spectral_type": "B9IV"
+    },
+    {
+      "hr": 1081,
+      "name": null,
+      "ra": 52.6542,
+      "dec": -47.3753,
+      "magnitude": 5.99,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 1083,
+      "name": "Ret",
+      "ra": 52.3446,
+      "dec": -62.9375,
+      "magnitude": 4.72,
+      "spectral_type": "F5IV-V"
+    },
+    {
+      "hr": 1084,
+      "name": "Eri",
+      "ra": 53.2325,
+      "dec": -9.4583,
+      "magnitude": 3.73,
+      "spectral_type": "K2V"
+    },
+    {
+      "hr": 1086,
+      "name": "Tau",
+      "ra": 53.6108,
+      "dec": 24.4644,
+      "magnitude": 5.92,
+      "spectral_type": "A3V+A3V"
+    },
+    {
+      "hr": 1087,
+      "name": "Per",
+      "ra": 54.1225,
+      "dec": 48.1928,
+      "magnitude": 4.23,
+      "spectral_type": "B5Ve"
+    },
+    {
+      "hr": 1088,
+      "name": "Eri",
+      "ra": 53.4471,
+      "dec": -21.6328,
+      "magnitude": 4.27,
+      "spectral_type": "B8V+B8V"
+    },
+    {
+      "hr": 1090,
+      "name": null,
+      "ra": 53.145,
+      "dec": -50.3786,
+      "magnitude": 5.68,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1092,
+      "name": null,
+      "ra": 52.715,
+      "dec": -66.4897,
+      "magnitude": 5.83,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1098,
+      "name": null,
+      "ra": 53.9904,
+      "dec": -11.1936,
+      "magnitude": 5.57,
+      "spectral_type": "gG7"
+    },
+    {
+      "hr": 1099,
+      "name": null,
+      "ra": 54.1971,
+      "dec": 0.5878,
+      "magnitude": 5.71,
+      "spectral_type": "G9V"
+    },
+    {
+      "hr": 1100,
+      "name": "Eri",
+      "ra": 54.0725,
+      "dec": -17.4669,
+      "magnitude": 5.23,
+      "spectral_type": "B9.5p"
+    },
+    {
+      "hr": 1101,
+      "name": "Tau",
+      "ra": 54.2183,
+      "dec": 0.4017,
+      "magnitude": 4.28,
+      "spectral_type": "F9IV-V"
+    },
+    {
+      "hr": 1105,
+      "name": null,
+      "ra": 55.5388,
+      "dec": 63.2167,
+      "magnitude": 5.1,
+      "spectral_type": "S3.5/2"
+    },
+    {
+      "hr": 1106,
+      "name": null,
+      "ra": 54.2737,
+      "dec": -40.2747,
+      "magnitude": 4.58,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 1107,
+      "name": null,
+      "ra": 62.5063,
+      "dec": 86.6261,
+      "magnitude": 5.86,
+      "spectral_type": "F5IV"
+    },
+    {
+      "hr": 1108,
+      "name": null,
+      "ra": 54.6217,
+      "dec": -7.3917,
+      "magnitude": 5.85,
+      "spectral_type": "gG5"
+    },
+    {
+      "hr": 1109,
+      "name": null,
+      "ra": 52.495,
+      "dec": -78.3519,
+      "magnitude": 5.7,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 1111,
+      "name": "Eri",
+      "ra": 54.7546,
+      "dec": -5.6261,
+      "magnitude": 5.96,
+      "spectral_type": "K1V"
+    },
+    {
+      "hr": 1112,
+      "name": null,
+      "ra": 55.6779,
+      "dec": 59.9694,
+      "magnitude": 5.76,
+      "spectral_type": "K3IIb"
+    },
+    {
+      "hr": 1113,
+      "name": null,
+      "ra": 55.2829,
+      "dec": 37.58,
+      "magnitude": 5.57,
+      "spectral_type": "B7Vne"
+    },
+    {
+      "hr": 1115,
+      "name": "Tau",
+      "ra": 54.9629,
+      "dec": 3.0569,
+      "magnitude": 5.57,
+      "spectral_type": "gG6"
+    },
+    {
+      "hr": 1121,
+      "name": "Eri",
+      "ra": 55.1596,
+      "dec": -5.2106,
+      "magnitude": 5.53,
+      "spectral_type": "B9IIIpSi4200"
+    },
+    {
+      "hr": 1122,
+      "name": "Per",
+      "ra": 55.7313,
+      "dec": 47.7875,
+      "magnitude": 3.01,
+      "spectral_type": "B5IIIe"
+    },
+    {
+      "hr": 1123,
+      "name": "Per",
+      "ra": 55.5938,
+      "dec": 33.965,
+      "magnitude": 4.97,
+      "spectral_type": "B0.5V"
+    },
+    {
+      "hr": 1124,
+      "name": null,
+      "ra": 56.5037,
+      "dec": 67.2017,
+      "magnitude": 5.8,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 1126,
+      "name": "Tau",
+      "ra": 55.5788,
+      "dec": 19.7003,
+      "magnitude": 5.69,
+      "spectral_type": "B9Vne"
+    },
+    {
+      "hr": 1129,
+      "name": null,
+      "ra": 56.5096,
+      "dec": 63.345,
+      "magnitude": 4.8,
+      "spectral_type": "G0III+A3V"
+    },
+    {
+      "hr": 1131,
+      "name": "Per",
+      "ra": 56.0796,
+      "dec": 32.2883,
+      "magnitude": 3.83,
+      "spectral_type": "B1III"
+    },
+    {
+      "hr": 1133,
+      "name": null,
+      "ra": 56.1308,
+      "dec": 36.46,
+      "magnitude": 5.59,
+      "spectral_type": "A2m"
+    },
+    {
+      "hr": 1134,
+      "name": "For",
+      "ra": 55.5621,
+      "dec": -31.9383,
+      "magnitude": 5.0,
+      "spectral_type": "B5IV"
+    },
+    {
+      "hr": 1135,
+      "name": "Per",
+      "ra": 56.2983,
+      "dec": 42.5786,
+      "magnitude": 3.77,
+      "spectral_type": "F5II"
+    },
+    {
+      "hr": 1136,
+      "name": "Eri",
+      "ra": 55.8121,
+      "dec": -9.7633,
+      "magnitude": 3.54,
+      "spectral_type": "K0+IV"
+    },
+    {
+      "hr": 1138,
+      "name": null,
+      "ra": 57.3075,
+      "dec": 70.8711,
+      "magnitude": 5.44,
+      "spectral_type": "A2m"
+    },
+    {
+      "hr": 1139,
+      "name": null,
+      "ra": 55.8908,
+      "dec": -10.4856,
+      "magnitude": 5.6,
+      "spectral_type": "A5m"
+    },
+    {
+      "hr": 1140,
+      "name": "Tau",
+      "ra": 56.2008,
+      "dec": 24.2894,
+      "magnitude": 5.46,
+      "spectral_type": "B7IV"
+    },
+    {
+      "hr": 1141,
+      "name": null,
+      "ra": 56.4971,
+      "dec": 45.6819,
+      "magnitude": 5.66,
+      "spectral_type": "B6V"
+    },
+    {
+      "hr": 1142,
+      "name": "Tau",
+      "ra": 56.2188,
+      "dec": 24.1133,
+      "magnitude": 3.7,
+      "spectral_type": "B6III"
+    },
+    {
+      "hr": 1143,
+      "name": null,
+      "ra": 55.7088,
+      "dec": -37.3136,
+      "magnitude": 4.59,
+      "spectral_type": "K2.5III"
+    },
+    {
+      "hr": 1144,
+      "name": "Tau",
+      "ra": 56.2904,
+      "dec": 24.8392,
+      "magnitude": 5.64,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1145,
+      "name": "Tau",
+      "ra": 56.3021,
+      "dec": 24.4672,
+      "magnitude": 4.3,
+      "spectral_type": "B6IV"
+    },
+    {
+      "hr": 1146,
+      "name": "Eri",
+      "ra": 56.1271,
+      "dec": -1.1631,
+      "magnitude": 5.25,
+      "spectral_type": "B7V"
+    },
+    {
+      "hr": 1148,
+      "name": "Cam",
+      "ra": 57.5896,
+      "dec": 71.3322,
+      "magnitude": 4.63,
+      "spectral_type": "A2IVn"
+    },
+    {
+      "hr": 1149,
+      "name": "Tau",
+      "ra": 56.4567,
+      "dec": 24.3678,
+      "magnitude": 3.87,
+      "spectral_type": "B8III"
+    },
+    {
+      "hr": 1150,
+      "name": "Eri",
+      "ra": 56.2354,
+      "dec": -0.2967,
+      "magnitude": 5.55,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 1151,
+      "name": "Tau",
+      "ra": 56.4767,
+      "dec": 24.5547,
+      "magnitude": 5.76,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1153,
+      "name": "Tau",
+      "ra": 56.4183,
+      "dec": 6.05,
+      "magnitude": 5.35,
+      "spectral_type": "B3V"
+    },
+    {
+      "hr": 1155,
+      "name": null,
+      "ra": 57.38,
+      "dec": 65.5261,
+      "magnitude": 4.47,
+      "spectral_type": "M2+IIab"
+    },
+    {
+      "hr": 1156,
+      "name": "Tau",
+      "ra": 56.5817,
+      "dec": 23.9483,
+      "magnitude": 4.18,
+      "spectral_type": "B6IVe"
+    },
+    {
+      "hr": 1158,
+      "name": null,
+      "ra": 57.4029,
+      "dec": 63.2972,
+      "magnitude": 5.85,
+      "spectral_type": "A5Vn"
+    },
+    {
+      "hr": 1159,
+      "name": null,
+      "ra": 56.5396,
+      "dec": 6.8031,
+      "magnitude": 5.91,
+      "spectral_type": "G9III"
+    },
+    {
+      "hr": 1162,
+      "name": "Eri",
+      "ra": 56.5354,
+      "dec": -12.1017,
+      "magnitude": 4.42,
+      "spectral_type": "M2III"
+    },
+    {
+      "hr": 1165,
+      "name": "Tau",
+      "ra": 56.8713,
+      "dec": 24.105,
+      "magnitude": 2.87,
+      "spectral_type": "B7IIIe"
+    },
+    {
+      "hr": 1169,
+      "name": null,
+      "ra": 56.3158,
+      "dec": -47.3597,
+      "magnitude": 5.73,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 1171,
+      "name": "For",
+      "ra": 56.6142,
+      "dec": -29.3381,
+      "magnitude": 5.9,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 1172,
+      "name": null,
+      "ra": 57.0871,
+      "dec": 23.4211,
+      "magnitude": 5.45,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1173,
+      "name": "Eri",
+      "ra": 56.7121,
+      "dec": -23.2497,
+      "magnitude": 4.23,
+      "spectral_type": "F3III"
+    },
+    {
+      "hr": 1174,
+      "name": "Tau",
+      "ra": 57.0679,
+      "dec": 11.1433,
+      "magnitude": 5.07,
+      "spectral_type": "B3V+F5V"
+    },
+    {
+      "hr": 1175,
+      "name": "Ret",
+      "ra": 56.05,
+      "dec": -64.8069,
+      "magnitude": 3.85,
+      "spectral_type": "K2+III"
+    },
+    {
+      "hr": 1176,
+      "name": null,
+      "ra": 57.5188,
+      "dec": 44.9678,
+      "magnitude": 5.66,
+      "spectral_type": "G2III+F2:V"
+    },
+    {
+      "hr": 1177,
+      "name": "Per",
+      "ra": 57.3858,
+      "dec": 33.0914,
+      "magnitude": 5.11,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 1178,
+      "name": "Tau",
+      "ra": 57.2904,
+      "dec": 24.0533,
+      "magnitude": 3.63,
+      "spectral_type": "B8III"
+    },
+    {
+      "hr": 1180,
+      "name": "Tau",
+      "ra": 57.2967,
+      "dec": 24.1367,
+      "magnitude": 5.09,
+      "spectral_type": "B8Vpe"
+    },
+    {
+      "hr": 1181,
+      "name": "Eri",
+      "ra": 56.915,
+      "dec": -23.8747,
+      "magnitude": 5.24,
+      "spectral_type": "A2"
+    },
+    {
+      "hr": 1182,
+      "name": null,
+      "ra": 57.1621,
+      "dec": 0.2278,
+      "magnitude": 5.91,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 1184,
+      "name": "For",
+      "ra": 56.9833,
+      "dec": -30.1678,
+      "magnitude": 5.54,
+      "spectral_type": "G6III"
+    },
+    {
+      "hr": 1187,
+      "name": null,
+      "ra": 57.1492,
+      "dec": -20.9031,
+      "magnitude": 5.81,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 1188,
+      "name": null,
+      "ra": 57.5788,
+      "dec": 25.5794,
+      "magnitude": 5.26,
+      "spectral_type": "A2V+A5V"
+    },
+    {
+      "hr": 1189,
+      "name": null,
+      "ra": 57.1475,
+      "dec": -37.6222,
+      "magnitude": 5.4,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 1190,
+      "name": null,
+      "ra": 57.1496,
+      "dec": -37.6206,
+      "magnitude": 4.73,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 1191,
+      "name": null,
+      "ra": 57.9738,
+      "dec": 34.3592,
+      "magnitude": 5.77,
+      "spectral_type": "B1V"
+    },
+    {
+      "hr": 1192,
+      "name": null,
+      "ra": 58.4304,
+      "dec": 57.975,
+      "magnitude": 5.8,
+      "spectral_type": "A5m"
+    },
+    {
+      "hr": 1195,
+      "name": null,
+      "ra": 57.3637,
+      "dec": -36.2003,
+      "magnitude": 4.17,
+      "spectral_type": "G9II-III"
+    },
+    {
+      "hr": 1198,
+      "name": null,
+      "ra": 58.4112,
+      "dec": 48.6506,
+      "magnitude": 5.76,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 1199,
+      "name": "Tau",
+      "ra": 58.0008,
+      "dec": 6.5347,
+      "magnitude": 5.67,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 1201,
+      "name": null,
+      "ra": 58.2917,
+      "dec": 17.3269,
+      "magnitude": 5.97,
+      "spectral_type": "F4V"
+    },
+    {
+      "hr": 1202,
+      "name": "Eri",
+      "ra": 58.1733,
+      "dec": -5.3614,
+      "magnitude": 5.48,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1203,
+      "name": "Per",
+      "ra": 58.5329,
+      "dec": 31.8836,
+      "magnitude": 2.85,
+      "spectral_type": "B1Ib"
+    },
+    {
+      "hr": 1204,
+      "name": null,
+      "ra": 59.3563,
+      "dec": 63.0722,
+      "magnitude": 5.03,
+      "spectral_type": "B9.5V"
+    },
+    {
+      "hr": 1205,
+      "name": null,
+      "ra": 59.2846,
+      "dec": 61.1089,
+      "magnitude": 5.0,
+      "spectral_type": "K3I-II+A3V:"
+    },
+    {
+      "hr": 1207,
+      "name": null,
+      "ra": 58.9925,
+      "dec": 47.8714,
+      "magnitude": 5.37,
+      "spectral_type": "B6V"
+    },
+    {
+      "hr": 1208,
+      "name": "Hyi",
+      "ra": 56.8096,
+      "dec": -74.2389,
+      "magnitude": 3.24,
+      "spectral_type": "M2III"
+    },
+    {
+      "hr": 1210,
+      "name": "Per",
+      "ra": 59.1521,
+      "dec": 50.6953,
+      "magnitude": 5.28,
+      "spectral_type": "F5IV"
+    },
+    {
+      "hr": 1212,
+      "name": "Eri",
+      "ra": 58.5729,
+      "dec": -2.9547,
+      "magnitude": 4.79,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 1213,
+      "name": "Eri",
+      "ra": 58.4275,
+      "dec": -24.6125,
+      "magnitude": 4.65,
+      "spectral_type": "B6V"
+    },
+    {
+      "hr": 1214,
+      "name": null,
+      "ra": 58.4121,
+      "dec": -34.7322,
+      "magnitude": 5.11,
+      "spectral_type": "B6V"
+    },
+    {
+      "hr": 1215,
+      "name": null,
+      "ra": 59.1196,
+      "dec": 35.0811,
+      "magnitude": 5.49,
+      "spectral_type": "B1.5V"
+    },
+    {
+      "hr": 1216,
+      "name": null,
+      "ra": 58.3888,
+      "dec": -46.8936,
+      "magnitude": 5.93,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1218,
+      "name": "Tau",
+      "ra": 59.2171,
+      "dec": 22.4781,
+      "magnitude": 5.63,
+      "spectral_type": "F2IV"
+    },
+    {
+      "hr": 1219,
+      "name": null,
+      "ra": 58.5967,
+      "dec": -40.3572,
+      "magnitude": 5.71,
+      "spectral_type": "K0III+A3V"
+    },
+    {
+      "hr": 1220,
+      "name": "Per",
+      "ra": 59.4633,
+      "dec": 40.0103,
+      "magnitude": 2.89,
+      "spectral_type": "B0.5V+A2V"
+    },
+    {
+      "hr": 1228,
+      "name": "Per",
+      "ra": 59.7413,
+      "dec": 35.7911,
+      "magnitude": 4.04,
+      "spectral_type": "O7.5III(n)((f))"
+    },
+    {
+      "hr": 1230,
+      "name": null,
+      "ra": 62.5117,
+      "dec": 80.6986,
+      "magnitude": 5.1,
+      "spectral_type": "G8III+A6V"
+    },
+    {
+      "hr": 1231,
+      "name": "Eri",
+      "ra": 59.5075,
+      "dec": -13.5086,
+      "magnitude": 2.95,
+      "spectral_type": "M0.5IIICa-1Cr-1"
+    },
+    {
+      "hr": 1232,
+      "name": null,
+      "ra": 59.7179,
+      "dec": -5.47,
+      "magnitude": 5.83,
+      "spectral_type": "G9V"
+    },
+    {
+      "hr": 1235,
+      "name": null,
+      "ra": 59.8754,
+      "dec": -12.5742,
+      "magnitude": 5.6,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 1238,
+      "name": null,
+      "ra": 60.2033,
+      "dec": 18.1939,
+      "magnitude": 5.89,
+      "spectral_type": "F4V"
+    },
+    {
+      "hr": 1239,
+      "name": "Tau",
+      "ra": 60.17,
+      "dec": 12.4903,
+      "magnitude": 3.47,
+      "spectral_type": "B3V+A4IV"
+    },
+    {
+      "hr": 1240,
+      "name": "Eri",
+      "ra": 59.9813,
+      "dec": -24.0164,
+      "magnitude": 4.66,
+      "spectral_type": "B6V+B9.5V"
+    },
+    {
+      "hr": 1241,
+      "name": null,
+      "ra": 61.5129,
+      "dec": 68.68,
+      "magnitude": 5.87,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1242,
+      "name": null,
+      "ra": 61.1133,
+      "dec": 59.1556,
+      "magnitude": 5.06,
+      "spectral_type": "F0II"
+    },
+    {
+      "hr": 1243,
+      "name": null,
+      "ra": 60.4421,
+      "dec": 9.9978,
+      "magnitude": 5.67,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 1244,
+      "name": "Eri",
+      "ra": 60.3833,
+      "dec": -1.5497,
+      "magnitude": 5.28,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 1246,
+      "name": null,
+      "ra": 60.1696,
+      "dec": -30.4908,
+      "magnitude": 5.93,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 1247,
+      "name": "Ret",
+      "ra": 59.6863,
+      "dec": -61.4003,
+      "magnitude": 4.56,
+      "spectral_type": "M2IIIab"
+    },
+    {
+      "hr": 1249,
+      "name": null,
+      "ra": 60.6529,
+      "dec": -0.2689,
+      "magnitude": 5.38,
+      "spectral_type": "F5V"
+    },
+    {
+      "hr": 1251,
+      "name": "Tau",
+      "ra": 60.7892,
+      "dec": 5.9892,
+      "magnitude": 3.91,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 1252,
+      "name": "Tau",
+      "ra": 61.0904,
+      "dec": 24.1058,
+      "magnitude": 5.47,
+      "spectral_type": "G0III+A4V"
+    },
+    {
+      "hr": 1253,
+      "name": "Tau",
+      "ra": 60.9358,
+      "dec": 5.4356,
+      "magnitude": 5.33,
+      "spectral_type": "B3V"
+    },
+    {
+      "hr": 1254,
+      "name": null,
+      "ra": 60.9858,
+      "dec": 8.1972,
+      "magnitude": 5.46,
+      "spectral_type": "F2V"
+    },
+    {
+      "hr": 1256,
+      "name": "Tau",
+      "ra": 61.1737,
+      "dec": 22.0819,
+      "magnitude": 4.36,
+      "spectral_type": "K0+III-IIIaFe-0.2"
+    },
+    {
+      "hr": 1257,
+      "name": null,
+      "ra": 61.0412,
+      "dec": 2.8269,
+      "magnitude": 5.36,
+      "spectral_type": "F6IV"
+    },
+    {
+      "hr": 1261,
+      "name": "Per",
+      "ra": 61.6458,
+      "dec": 50.3514,
+      "magnitude": 4.29,
+      "spectral_type": "A0IVn"
+    },
+    {
+      "hr": 1262,
+      "name": "Tau",
+      "ra": 61.3342,
+      "dec": 22.0089,
+      "magnitude": 5.9,
+      "spectral_type": "G5V"
+    },
+    {
+      "hr": 1264,
+      "name": "Ret",
+      "ra": 60.2242,
+      "dec": -62.1594,
+      "magnitude": 4.51,
+      "spectral_type": "M4III"
+    },
+    {
+      "hr": 1265,
+      "name": null,
+      "ra": 61.0946,
+      "dec": -12.7925,
+      "magnitude": 5.61,
+      "spectral_type": "gK0"
+    },
+    {
+      "hr": 1266,
+      "name": "Ret",
+      "ra": 60.3258,
+      "dec": -61.0789,
+      "magnitude": 4.97,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 1268,
+      "name": "Tau",
+      "ra": 61.6517,
+      "dec": 27.6,
+      "magnitude": 5.2,
+      "spectral_type": "B9pSi"
+    },
+    {
+      "hr": 1269,
+      "name": "Tau",
+      "ra": 61.7521,
+      "dec": 29.0014,
+      "magnitude": 5.23,
+      "spectral_type": "F1V"
+    },
+    {
+      "hr": 1273,
+      "name": "Per",
+      "ra": 62.1654,
+      "dec": 47.7125,
+      "magnitude": 4.04,
+      "spectral_type": "B3Ve"
+    },
+    {
+      "hr": 1275,
+      "name": null,
+      "ra": 61.4058,
+      "dec": -27.6517,
+      "magnitude": 5.59,
+      "spectral_type": "F1IV"
+    },
+    {
+      "hr": 1278,
+      "name": "Per",
+      "ra": 62.1525,
+      "dec": 38.0397,
+      "magnitude": 5.51,
+      "spectral_type": "F7V"
+    },
+    {
+      "hr": 1280,
+      "name": null,
+      "ra": 61.9975,
+      "dec": 17.3397,
+      "magnitude": 5.89,
+      "spectral_type": "K5IIIb"
+    },
+    {
+      "hr": 1283,
+      "name": "Tau",
+      "ra": 62.2917,
+      "dec": 19.6092,
+      "magnitude": 5.5,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1284,
+      "name": null,
+      "ra": 62.2567,
+      "dec": 13.3983,
+      "magnitude": 5.95,
+      "spectral_type": "B9.5V"
+    },
+    {
+      "hr": 1286,
+      "name": null,
+      "ra": 62.7458,
+      "dec": 33.5867,
+      "magnitude": 5.72,
+      "spectral_type": "K1II-III"
+    },
+    {
+      "hr": 1287,
+      "name": "Tau",
+      "ra": 62.7079,
+      "dec": 26.4808,
+      "magnitude": 5.41,
+      "spectral_type": "F2IV-V"
+    },
+    {
+      "hr": 1288,
+      "name": null,
+      "ra": 62.3242,
+      "dec": -16.3858,
+      "magnitude": 5.37,
+      "spectral_type": "B4V"
+    },
+    {
+      "hr": 1289,
+      "name": null,
+      "ra": 67.0542,
+      "dec": 83.8078,
+      "magnitude": 5.57,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 1290,
+      "name": "Eri",
+      "ra": 62.5938,
+      "dec": -6.9239,
+      "magnitude": 5.44,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 1292,
+      "name": "Tau",
+      "ra": 62.8346,
+      "dec": 5.5231,
+      "magnitude": 5.72,
+      "spectral_type": "F4V"
+    },
+    {
+      "hr": 1293,
+      "name": null,
+      "ra": 62.6988,
+      "dec": -8.8197,
+      "magnitude": 5.7,
+      "spectral_type": "gG9"
+    },
+    {
+      "hr": 1298,
+      "name": "Eri",
+      "ra": 62.9663,
+      "dec": -6.8375,
+      "magnitude": 4.04,
+      "spectral_type": "F2II-III"
+    },
+    {
+      "hr": 1300,
+      "name": null,
+      "ra": 62.9008,
+      "dec": -20.3561,
+      "magnitude": 5.79,
+      "spectral_type": "A2m"
+    },
+    {
+      "hr": 1302,
+      "name": "Hor",
+      "ra": 62.7108,
+      "dec": -41.9936,
+      "magnitude": 4.93,
+      "spectral_type": "A9V"
+    },
+    {
+      "hr": 1303,
+      "name": "Per",
+      "ra": 63.7246,
+      "dec": 48.4094,
+      "magnitude": 4.14,
+      "spectral_type": "G0Ib"
+    },
+    {
+      "hr": 1304,
+      "name": null,
+      "ra": 67.5004,
+      "dec": 83.3406,
+      "magnitude": 5.46,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 1305,
+      "name": null,
+      "ra": 64.2233,
+      "dec": 61.8503,
+      "magnitude": 5.7,
+      "spectral_type": "B5Vn"
+    },
+    {
+      "hr": 1306,
+      "name": "Per",
+      "ra": 63.7221,
+      "dec": 40.4836,
+      "magnitude": 4.71,
+      "spectral_type": "G5Ib+A2V"
+    },
+    {
+      "hr": 1309,
+      "name": "Tau",
+      "ra": 63.3879,
+      "dec": 7.7161,
+      "magnitude": 5.29,
+      "spectral_type": "F2V+F5V"
+    },
+    {
+      "hr": 1311,
+      "name": "Tau",
+      "ra": 63.485,
+      "dec": 9.2636,
+      "magnitude": 4.84,
+      "spectral_type": "G5III+A7V?"
+    },
+    {
+      "hr": 1313,
+      "name": null,
+      "ra": 64.2842,
+      "dec": 57.8606,
+      "magnitude": 5.71,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 1314,
+      "name": null,
+      "ra": 64.1796,
+      "dec": 53.6119,
+      "magnitude": 5.19,
+      "spectral_type": "A2Vn"
+    },
+    {
+      "hr": 1315,
+      "name": null,
+      "ra": 63.6512,
+      "dec": 10.0111,
+      "magnitude": 5.22,
+      "spectral_type": "B9Vn"
+    },
+    {
+      "hr": 1317,
+      "name": null,
+      "ra": 66.7617,
+      "dec": 80.8242,
+      "magnitude": 5.43,
+      "spectral_type": "gG6"
+    },
+    {
+      "hr": 1318,
+      "name": "Eri",
+      "ra": 63.5988,
+      "dec": -10.2564,
+      "magnitude": 4.87,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 1320,
+      "name": "Tau",
+      "ra": 63.8838,
+      "dec": 8.8922,
+      "magnitude": 4.29,
+      "spectral_type": "B3IV"
+    },
+    {
+      "hr": 1324,
+      "name": null,
+      "ra": 64.5608,
+      "dec": 50.2956,
+      "magnitude": 4.61,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 1325,
+      "name": "Eri",
+      "ra": 63.8179,
+      "dec": -7.6528,
+      "magnitude": 4.43,
+      "spectral_type": "K1-V"
+    },
+    {
+      "hr": 1326,
+      "name": "Hor",
+      "ra": 63.5004,
+      "dec": -42.2944,
+      "magnitude": 3.86,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 1327,
+      "name": null,
+      "ra": 65.1679,
+      "dec": 65.1406,
+      "magnitude": 5.27,
+      "spectral_type": "G5IIb"
+    },
+    {
+      "hr": 1329,
+      "name": "Tau",
+      "ra": 64.315,
+      "dec": 20.5786,
+      "magnitude": 4.94,
+      "spectral_type": "A3m"
+    },
+    {
+      "hr": 1330,
+      "name": null,
+      "ra": 64.8054,
+      "dec": 50.0489,
+      "magnitude": 5.45,
+      "spectral_type": "A7V"
+    },
+    {
+      "hr": 1331,
+      "name": "Tau",
+      "ra": 64.5967,
+      "dec": 21.5792,
+      "magnitude": 5.65,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 1332,
+      "name": null,
+      "ra": 64.33,
+      "dec": -6.4719,
+      "magnitude": 5.94,
+      "spectral_type": "gG8"
+    },
+    {
+      "hr": 1333,
+      "name": null,
+      "ra": 65.0479,
+      "dec": 50.9208,
+      "magnitude": 5.55,
+      "spectral_type": "B1.5IV"
+    },
+    {
+      "hr": 1335,
+      "name": null,
+      "ra": 65.4483,
+      "dec": 60.7356,
+      "magnitude": 5.39,
+      "spectral_type": "M0III"
+    },
+    {
+      "hr": 1336,
+      "name": "Ret",
+      "ra": 63.6062,
+      "dec": -62.4739,
+      "magnitude": 3.35,
+      "spectral_type": "G8II-III"
+    },
+    {
+      "hr": 1337,
+      "name": null,
+      "ra": 65.06,
+      "dec": 41.8081,
+      "magnitude": 5.92,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 1338,
+      "name": "Dor",
+      "ra": 64.0067,
+      "dec": -51.4867,
+      "magnitude": 4.25,
+      "spectral_type": "F4III"
+    },
+    {
+      "hr": 1339,
+      "name": "Tau",
+      "ra": 64.8588,
+      "dec": 21.1422,
+      "magnitude": 5.35,
+      "spectral_type": "B9IV"
+    },
+    {
+      "hr": 1340,
+      "name": null,
+      "ra": 63.7029,
+      "dec": -62.1919,
+      "magnitude": 5.45,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 1341,
+      "name": "Tau",
+      "ra": 64.9029,
+      "dec": 21.7736,
+      "magnitude": 5.38,
+      "spectral_type": "A0pSi"
+    },
+    {
+      "hr": 1342,
+      "name": null,
+      "ra": 65.4658,
+      "dec": 56.5067,
+      "magnitude": 5.88,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 1343,
+      "name": "Per",
+      "ra": 65.1025,
+      "dec": 34.5667,
+      "magnitude": 4.93,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 1346,
+      "name": "Tau",
+      "ra": 64.9483,
+      "dec": 15.6275,
+      "magnitude": 3.65,
+      "spectral_type": "K0-IIIabCN1"
+    },
+    {
+      "hr": 1347,
+      "name": "Eri",
+      "ra": 64.4737,
+      "dec": -33.7983,
+      "magnitude": 3.56,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 1348,
+      "name": "Tau",
+      "ra": 65.0888,
+      "dec": 27.3508,
+      "magnitude": 4.95,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 1350,
+      "name": "Per",
+      "ra": 65.3883,
+      "dec": 46.4989,
+      "magnitude": 4.85,
+      "spectral_type": "B4IV"
+    },
+    {
+      "hr": 1351,
+      "name": "Tau",
+      "ra": 64.9904,
+      "dec": 14.0353,
+      "magnitude": 5.59,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 1355,
+      "name": "Ret",
+      "ra": 64.1204,
+      "dec": -59.3019,
+      "magnitude": 4.44,
+      "spectral_type": "K2IVa"
+    },
+    {
+      "hr": 1356,
+      "name": "Tau",
+      "ra": 65.1512,
+      "dec": 15.0953,
+      "magnitude": 5.26,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 1360,
+      "name": null,
+      "ra": 65.1717,
+      "dec": 6.1308,
+      "magnitude": 5.77,
+      "spectral_type": "G8III-IV"
+    },
+    {
+      "hr": 1363,
+      "name": null,
+      "ra": 65.1783,
+      "dec": -7.5925,
+      "magnitude": 5.85,
+      "spectral_type": "B5III"
+    },
+    {
+      "hr": 1364,
+      "name": null,
+      "ra": 64.8192,
+      "dec": -44.2681,
+      "magnitude": 5.34,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1366,
+      "name": null,
+      "ra": 65.3629,
+      "dec": -0.0981,
+      "magnitude": 5.86,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 1367,
+      "name": null,
+      "ra": 65.1625,
+      "dec": -20.6397,
+      "magnitude": 5.38,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 1368,
+      "name": "Tau",
+      "ra": 65.5146,
+      "dec": 14.0772,
+      "magnitude": 5.72,
+      "spectral_type": "A3m"
+    },
+    {
+      "hr": 1369,
+      "name": "Tau",
+      "ra": 65.6454,
+      "dec": 25.6292,
+      "magnitude": 5.37,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 1370,
+      "name": null,
+      "ra": 65.595,
+      "dec": 20.8214,
+      "magnitude": 5.91,
+      "spectral_type": "M0IIIab+A,F"
+    },
+    {
+      "hr": 1372,
+      "name": "Ret",
+      "ra": 64.4175,
+      "dec": -63.2556,
+      "magnitude": 5.87,
+      "spectral_type": "B9III-IV"
+    },
+    {
+      "hr": 1373,
+      "name": "Tau",
+      "ra": 65.7338,
+      "dec": 17.5425,
+      "magnitude": 3.76,
+      "spectral_type": "K0-IIICN0.5"
+    },
+    {
+      "hr": 1375,
+      "name": null,
+      "ra": 65.885,
+      "dec": 20.9822,
+      "magnitude": 5.99,
+      "spectral_type": "B8IV-V"
+    },
+    {
+      "hr": 1376,
+      "name": "Tau",
+      "ra": 65.8542,
+      "dec": 16.7772,
+      "magnitude": 5.64,
+      "spectral_type": "A1m"
+    },
+    {
+      "hr": 1377,
+      "name": "Per",
+      "ra": 66.1217,
+      "dec": 34.1306,
+      "magnitude": 5.73,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1379,
+      "name": "Per",
+      "ra": 66.1558,
+      "dec": 33.9597,
+      "magnitude": 5.76,
+      "spectral_type": "F4V"
+    },
+    {
+      "hr": 1380,
+      "name": "Tau",
+      "ra": 66.0242,
+      "dec": 17.4439,
+      "magnitude": 4.8,
+      "spectral_type": "A7V"
+    },
+    {
+      "hr": 1381,
+      "name": "Tau",
+      "ra": 65.9663,
+      "dec": 9.4608,
+      "magnitude": 5.12,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 1383,
+      "name": "Eri",
+      "ra": 65.92,
+      "dec": -3.7456,
+      "magnitude": 5.17,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 1384,
+      "name": null,
+      "ra": 65.7738,
+      "dec": -24.8922,
+      "magnitude": 5.83,
+      "spectral_type": "K5"
+    },
+    {
+      "hr": 1385,
+      "name": null,
+      "ra": 66.2379,
+      "dec": 19.0417,
+      "magnitude": 5.98,
+      "spectral_type": "F4V"
+    },
+    {
+      "hr": 1387,
+      "name": "Tau",
+      "ra": 66.3421,
+      "dec": 22.2939,
+      "magnitude": 4.22,
+      "spectral_type": "A7IV-V"
+    },
+    {
+      "hr": 1388,
+      "name": "Tau",
+      "ra": 66.3542,
+      "dec": 22.1997,
+      "magnitude": 5.28,
+      "spectral_type": "A7V"
+    },
+    {
+      "hr": 1389,
+      "name": "Tau",
+      "ra": 66.3725,
+      "dec": 17.9281,
+      "magnitude": 4.29,
+      "spectral_type": "A2IV"
+    },
+    {
+      "hr": 1390,
+      "name": null,
+      "ra": 66.5263,
+      "dec": 31.4389,
+      "magnitude": 5.28,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 1392,
+      "name": "Tau",
+      "ra": 66.5771,
+      "dec": 22.8136,
+      "magnitude": 4.28,
+      "spectral_type": "A8Vn"
+    },
+    {
+      "hr": 1393,
+      "name": "Eri",
+      "ra": 66.0092,
+      "dec": -34.0169,
+      "magnitude": 3.96,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 1394,
+      "name": "Tau",
+      "ra": 66.5867,
+      "dec": 15.6183,
+      "magnitude": 4.49,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 1395,
+      "name": "Ret",
+      "ra": 65.4721,
+      "dec": -63.3864,
+      "magnitude": 5.24,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 1396,
+      "name": "Tau",
+      "ra": 66.6517,
+      "dec": 14.7136,
+      "magnitude": 4.69,
+      "spectral_type": "G7IIIaFe-1"
+    },
+    {
+      "hr": 1399,
+      "name": "Tau",
+      "ra": 66.8229,
+      "dec": 22.9964,
+      "magnitude": 5.53,
+      "spectral_type": "B7V"
+    },
+    {
+      "hr": 1401,
+      "name": null,
+      "ra": 68.3779,
+      "dec": 72.5286,
+      "magnitude": 5.94,
+      "spectral_type": "A8m"
+    },
+    {
+      "hr": 1402,
+      "name": null,
+      "ra": 66.87,
+      "dec": 11.2125,
+      "magnitude": 5.88,
+      "spectral_type": "B8IV"
+    },
+    {
+      "hr": 1403,
+      "name": null,
+      "ra": 67.0033,
+      "dec": 21.62,
+      "magnitude": 5.72,
+      "spectral_type": "Am"
+    },
+    {
+      "hr": 1407,
+      "name": "Tau",
+      "ra": 67.11,
+      "dec": 16.3597,
+      "magnitude": 4.97,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1408,
+      "name": "Tau",
+      "ra": 67.0975,
+      "dec": 14.7408,
+      "magnitude": 5.9,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 1409,
+      "name": "Tau",
+      "ra": 67.1542,
+      "dec": 19.1803,
+      "magnitude": 3.53,
+      "spectral_type": "G9.5IIICN0.5"
+    },
+    {
+      "hr": 1411,
+      "name": "Tau",
+      "ra": 67.1438,
+      "dec": 15.9622,
+      "magnitude": 3.84,
+      "spectral_type": "K0IIIbFe-0.5"
+    },
+    {
+      "hr": 1412,
+      "name": "Tau",
+      "ra": 67.1654,
+      "dec": 15.8708,
+      "magnitude": 3.4,
+      "spectral_type": "A7III"
+    },
+    {
+      "hr": 1414,
+      "name": "Tau",
+      "ra": 67.2092,
+      "dec": 13.0475,
+      "magnitude": 5.03,
+      "spectral_type": "A7V"
+    },
+    {
+      "hr": 1415,
+      "name": null,
+      "ra": 67.1338,
+      "dec": 1.3808,
+      "magnitude": 5.55,
+      "spectral_type": "B3V"
+    },
+    {
+      "hr": 1416,
+      "name": null,
+      "ra": 66.2721,
+      "dec": -61.2383,
+      "magnitude": 5.94,
+      "spectral_type": "K4-5III"
+    },
+    {
+      "hr": 1417,
+      "name": "Cam",
+      "ra": 68.0075,
+      "dec": 53.9108,
+      "magnitude": 5.77,
+      "spectral_type": "B0III"
+    },
+    {
+      "hr": 1421,
+      "name": null,
+      "ra": 67.1625,
+      "dec": -19.4583,
+      "magnitude": 5.96,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 1422,
+      "name": "Tau",
+      "ra": 67.5358,
+      "dec": 15.6381,
+      "magnitude": 5.58,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 1423,
+      "name": null,
+      "ra": 67.2788,
+      "dec": -13.0483,
+      "magnitude": 5.6,
+      "spectral_type": "B1Vne"
+    },
+    {
+      "hr": 1426,
+      "name": "Men",
+      "ra": 64.4962,
+      "dec": -80.2139,
+      "magnitude": 5.69,
+      "spectral_type": "K2-3III+A"
+    },
+    {
+      "hr": 1427,
+      "name": null,
+      "ra": 67.6404,
+      "dec": 16.1939,
+      "magnitude": 4.78,
+      "spectral_type": "A6IV"
+    },
+    {
+      "hr": 1428,
+      "name": "Tau",
+      "ra": 67.6621,
+      "dec": 15.6919,
+      "magnitude": 5.48,
+      "spectral_type": "A5m"
+    },
+    {
+      "hr": 1430,
+      "name": "Tau",
+      "ra": 67.6554,
+      "dec": 13.7244,
+      "magnitude": 5.4,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 1435,
+      "name": null,
+      "ra": 66.9412,
+      "dec": -62.5208,
+      "magnitude": 5.75,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 1437,
+      "name": "Eri",
+      "ra": 67.9696,
+      "dec": -0.0439,
+      "magnitude": 4.91,
+      "spectral_type": "K3II-III"
+    },
+    {
+      "hr": 1439,
+      "name": null,
+      "ra": 67.6679,
+      "dec": -35.6536,
+      "magnitude": 5.96,
+      "spectral_type": "K0II"
+    },
+    {
+      "hr": 1440,
+      "name": null,
+      "ra": 69.1008,
+      "dec": 64.2617,
+      "magnitude": 5.94,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 1441,
+      "name": null,
+      "ra": 68.1558,
+      "dec": -3.2092,
+      "magnitude": 5.81,
+      "spectral_type": "B9III"
+    },
+    {
+      "hr": 1443,
+      "name": "Cae",
+      "ra": 67.7088,
+      "dec": -44.9539,
+      "magnitude": 5.07,
+      "spectral_type": "B2IV-V"
+    },
+    {
+      "hr": 1444,
+      "name": "Tau",
+      "ra": 68.4621,
+      "dec": 14.8444,
+      "magnitude": 4.65,
+      "spectral_type": "A8V"
+    },
+    {
+      "hr": 1445,
+      "name": null,
+      "ra": 68.6583,
+      "dec": 28.9611,
+      "magnitude": 5.88,
+      "spectral_type": "B9pHg"
+    },
+    {
+      "hr": 1448,
+      "name": null,
+      "ra": 68.5346,
+      "dec": 5.5686,
+      "magnitude": 5.68,
+      "spectral_type": "A2V s"
+    },
+    {
+      "hr": 1449,
+      "name": "Eri",
+      "ra": 68.4783,
+      "dec": -6.7389,
+      "magnitude": 5.72,
+      "spectral_type": "B9pSi"
+    },
+    {
+      "hr": 1451,
+      "name": "Eri",
+      "ra": 68.5483,
+      "dec": -8.2314,
+      "magnitude": 5.11,
+      "spectral_type": "M3III"
+    },
+    {
+      "hr": 1452,
+      "name": null,
+      "ra": 68.5487,
+      "dec": -8.9703,
+      "magnitude": 5.26,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 1453,
+      "name": "Eri",
+      "ra": 68.3775,
+      "dec": -29.7667,
+      "magnitude": 4.51,
+      "spectral_type": "K0IIICN-1"
+    },
+    {
+      "hr": 1454,
+      "name": "Per",
+      "ra": 69.1725,
+      "dec": 41.2647,
+      "magnitude": 4.25,
+      "spectral_type": "K4III+A3V"
+    },
+    {
+      "hr": 1456,
+      "name": "Men",
+      "ra": 65.2412,
+      "dec": -81.58,
+      "magnitude": 5.79,
+      "spectral_type": "F0-2III"
+    },
+    {
+      "hr": 1457,
+      "name": "Tau",
+      "ra": 68.98,
+      "dec": 16.5092,
+      "magnitude": 0.85,
+      "spectral_type": "K5+III"
+    },
+    {
+      "hr": 1458,
+      "name": "Tau",
+      "ra": 68.9137,
+      "dec": 10.1608,
+      "magnitude": 4.25,
+      "spectral_type": "A5m"
+    },
+    {
+      "hr": 1463,
+      "name": "Eri",
+      "ra": 69.0796,
+      "dec": -3.3525,
+      "magnitude": 3.93,
+      "spectral_type": "B2III"
+    },
+    {
+      "hr": 1464,
+      "name": "Eri",
+      "ra": 68.8875,
+      "dec": -30.5622,
+      "magnitude": 3.82,
+      "spectral_type": "G8IIIa"
+    },
+    {
+      "hr": 1465,
+      "name": "Dor",
+      "ra": 68.4992,
+      "dec": -55.045,
+      "magnitude": 3.27,
+      "spectral_type": "A0IIISi"
+    },
+    {
+      "hr": 1466,
+      "name": "Cam",
+      "ra": 69.9921,
+      "dec": 53.4731,
+      "magnitude": 5.35,
+      "spectral_type": "A8V"
+    },
+    {
+      "hr": 1467,
+      "name": "Cam",
+      "ra": 69.9779,
+      "dec": 53.0797,
+      "magnitude": 5.05,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 1469,
+      "name": null,
+      "ra": 69.3071,
+      "dec": 0.9983,
+      "magnitude": 5.31,
+      "spectral_type": "B7V"
+    },
+    {
+      "hr": 1471,
+      "name": null,
+      "ra": 69.5658,
+      "dec": 20.6847,
+      "magnitude": 5.92,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1472,
+      "name": "Tau",
+      "ra": 69.5392,
+      "dec": 16.0333,
+      "magnitude": 5.79,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 1473,
+      "name": "Tau",
+      "ra": 69.5396,
+      "dec": 12.5108,
+      "magnitude": 4.27,
+      "spectral_type": "A6V"
+    },
+    {
+      "hr": 1474,
+      "name": "Eri",
+      "ra": 69.4004,
+      "dec": -2.4733,
+      "magnitude": 5.23,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 1475,
+      "name": null,
+      "ra": 68.3917,
+      "dec": -62.8236,
+      "magnitude": 5.79,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 1478,
+      "name": "Tau",
+      "ra": 69.7883,
+      "dec": 15.7997,
+      "magnitude": 5.07,
+      "spectral_type": "A4m"
+    },
+    {
+      "hr": 1479,
+      "name": "Tau",
+      "ra": 69.8188,
+      "dec": 15.9181,
+      "magnitude": 4.69,
+      "spectral_type": "A5Vn"
+    },
+    {
+      "hr": 1480,
+      "name": null,
+      "ra": 69.7758,
+      "dec": 7.8708,
+      "magnitude": 5.39,
+      "spectral_type": "A5m"
+    },
+    {
+      "hr": 1481,
+      "name": "Eri",
+      "ra": 69.545,
+      "dec": -14.3039,
+      "magnitude": 3.87,
+      "spectral_type": "K2IIIb"
+    },
+    {
+      "hr": 1482,
+      "name": null,
+      "ra": 70.3504,
+      "dec": 48.3008,
+      "magnitude": 5.67,
+      "spectral_type": "A0V"
+    },
+    {
+      "hr": 1483,
+      "name": null,
+      "ra": 69.7233,
+      "dec": -12.1231,
+      "magnitude": 5.01,
+      "spectral_type": "A2IV"
+    },
+    {
+      "hr": 1484,
+      "name": "Tau",
+      "ra": 70.0142,
+      "dec": 12.1978,
+      "magnitude": 5.46,
+      "spectral_type": "B8IV"
+    },
+    {
+      "hr": 1487,
+      "name": null,
+      "ra": 69.8321,
+      "dec": -14.3592,
+      "magnitude": 5.45,
+      "spectral_type": "K1IVa"
+    },
+    {
+      "hr": 1489,
+      "name": null,
+      "ra": 70.4596,
+      "dec": 38.2803,
+      "magnitude": 5.99,
+      "spectral_type": "G0V"
+    },
+    {
+      "hr": 1490,
+      "name": null,
+      "ra": 70.3325,
+      "dec": 28.615,
+      "magnitude": 5.78,
+      "spectral_type": "A2V"
+    },
+    {
+      "hr": 1492,
+      "name": null,
+      "ra": 69.19,
+      "dec": -62.0775,
+      "magnitude": 5.4,
+      "spectral_type": "M8eIII:"
+    },
+    {
+      "hr": 1493,
+      "name": null,
+      "ra": 70.84,
+      "dec": 49.9739,
+      "magnitude": 5.87,
+      "spectral_type": "B9III"
+    },
+    {
+      "hr": 1494,
+      "name": "Per",
+      "ra": 70.7262,
+      "dec": 43.365,
+      "magnitude": 5.29,
+      "spectral_type": "A1Vn"
+    },
+    {
+      "hr": 1495,
+      "name": null,
+      "ra": 70.0283,
+      "dec": -24.4825,
+      "magnitude": 5.58,
+      "spectral_type": "G6III"
+    },
+    {
+      "hr": 1496,
+      "name": "Eri",
+      "ra": 70.1104,
+      "dec": -19.6717,
+      "magnitude": 4.32,
+      "spectral_type": "M4III"
+    },
+    {
+      "hr": 1497,
+      "name": "Tau",
+      "ra": 70.5613,
+      "dec": 22.9569,
+      "magnitude": 4.28,
+      "spectral_type": "B3V"
+    },
+    {
+      "hr": 1502,
+      "name": "Cae",
+      "ra": 70.1404,
+      "dec": -41.8639,
+      "magnitude": 4.45,
+      "spectral_type": "F2V"
+    },
+    {
+      "hr": 1503,
+      "name": "Cae",
+      "ra": 70.5146,
+      "dec": -37.1444,
+      "magnitude": 5.05,
+      "spectral_type": "F1V"
+    },
+    {
+      "hr": 1507,
+      "name": null,
+      "ra": 71.1075,
+      "dec": 11.1461,
+      "magnitude": 5.4,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 1508,
+      "name": "Eri",
+      "ra": 71.0221,
+      "dec": -8.5036,
+      "magnitude": 5.9,
+      "spectral_type": "B2Ve"
+    },
+    {
+      "hr": 1509,
+      "name": null,
+      "ra": 70.7887,
+      "dec": -30.7656,
+      "magnitude": 5.68,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1511,
+      "name": "Cam",
+      "ra": 72.0012,
+      "dec": 56.7572,
+      "magnitude": 5.3,
+      "spectral_type": "A3m"
+    },
+    {
+      "hr": 1513,
+      "name": null,
+      "ra": 71.0333,
+      "dec": -18.6667,
+      "magnitude": 5.53,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 1514,
+      "name": null,
+      "ra": 71.685,
+      "dec": 40.3128,
+      "magnitude": 5.97,
+      "spectral_type": "G9III"
+    },
+    {
+      "hr": 1516,
+      "name": "Pic",
+      "ra": 70.6933,
+      "dec": -50.4814,
+      "magnitude": 5.31,
+      "spectral_type": "K0-1III"
+    },
+    {
+      "hr": 1519,
+      "name": null,
+      "ra": 71.5071,
+      "dec": 11.7056,
+      "magnitude": 5.37,
+      "spectral_type": "A2m"
+    },
+    {
+      "hr": 1520,
+      "name": "Eri",
+      "ra": 71.3754,
+      "dec": -3.2547,
+      "magnitude": 4.02,
+      "spectral_type": "B5IV"
+    },
+    {
+      "hr": 1521,
+      "name": null,
+      "ra": 71.2675,
+      "dec": -21.2836,
+      "magnitude": 5.72,
+      "spectral_type": "gK2"
+    },
+    {
+      "hr": 1523,
+      "name": null,
+      "ra": 75.0862,
+      "dec": 81.1939,
+      "magnitude": 5.07,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 1527,
+      "name": null,
+      "ra": 73.0217,
+      "dec": 63.5053,
+      "magnitude": 5.44,
+      "spectral_type": "M3IIIab"
+    },
+    {
+      "hr": 1528,
+      "name": null,
+      "ra": 72.3292,
+      "dec": 32.5883,
+      "magnitude": 5.86,
+      "spectral_type": "A8m"
+    },
+    {
+      "hr": 1529,
+      "name": null,
+      "ra": 72.3033,
+      "dec": 31.4372,
+      "magnitude": 5.58,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1530,
+      "name": "Dor",
+      "ra": 71.0879,
+      "dec": -59.7328,
+      "magnitude": 5.27,
+      "spectral_type": "A8-9III-IV"
+    },
+    {
+      "hr": 1532,
+      "name": "Eri",
+      "ra": 71.9012,
+      "dec": -16.9344,
+      "magnitude": 5.51,
+      "spectral_type": "G2.5V"
+    },
+    {
+      "hr": 1533,
+      "name": null,
+      "ra": 72.4775,
+      "dec": 37.4883,
+      "magnitude": 4.88,
+      "spectral_type": "K3.5IIIBa0.2:"
+    },
+    {
+      "hr": 1535,
+      "name": null,
+      "ra": 72.7887,
+      "dec": 48.7408,
+      "magnitude": 5.66,
+      "spectral_type": "G9III"
+    },
+    {
+      "hr": 1536,
+      "name": null,
+      "ra": 72.1512,
+      "dec": -5.6739,
+      "magnitude": 5.78,
+      "spectral_type": "F8V"
+    },
+    {
+      "hr": 1538,
+      "name": "Eri",
+      "ra": 72.1354,
+      "dec": -16.3294,
+      "magnitude": 5.77,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 1541,
+      "name": "Men",
+      "ra": 70.7663,
+      "dec": -70.9311,
+      "magnitude": 5.54,
+      "spectral_type": "B8II-IIISi:"
+    },
+    {
+      "hr": 1542,
+      "name": "Cam",
+      "ra": 73.5125,
+      "dec": 66.3428,
+      "magnitude": 4.29,
+      "spectral_type": "O9.5Ia"
+    },
+    {
+      "hr": 1543,
+      "name": "Ori",
+      "ra": 72.46,
+      "dec": 6.9614,
+      "magnitude": 3.19,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 1544,
+      "name": "Ori",
+      "ra": 72.6529,
+      "dec": 8.9003,
+      "magnitude": 4.36,
+      "spectral_type": "A1Vn"
+    },
+    {
+      "hr": 1547,
+      "name": "Tau",
+      "ra": 72.8437,
+      "dec": 18.8397,
+      "magnitude": 5.1,
+      "spectral_type": "A7IV-V"
+    },
+    {
+      "hr": 1549,
+      "name": "Eri",
+      "ra": 72.5483,
+      "dec": -16.2172,
+      "magnitude": 5.03,
+      "spectral_type": "K0III"
+    },
+    {
+      "hr": 1550,
+      "name": null,
+      "ra": 73.1992,
+      "dec": 42.5867,
+      "magnitude": 5.71,
+      "spectral_type": "A3III"
+    },
+    {
+      "hr": 1551,
+      "name": "Aur",
+      "ra": 73.1583,
+      "dec": 36.7031,
+      "magnitude": 4.78,
+      "spectral_type": "K2.5IIIbBa0.4"
+    },
+    {
+      "hr": 1552,
+      "name": "Ori",
+      "ra": 72.8017,
+      "dec": 5.605,
+      "magnitude": 3.69,
+      "spectral_type": "B2III+B2IV"
+    },
+    {
+      "hr": 1554,
+      "name": null,
+      "ra": 73.1963,
+      "dec": 27.8975,
+      "magnitude": 5.97,
+      "spectral_type": "F2IV"
+    },
+    {
+      "hr": 1555,
+      "name": "Cam",
+      "ra": 73.7629,
+      "dec": 55.2592,
+      "magnitude": 5.52,
+      "spectral_type": "B9.5V"
+    },
+    {
+      "hr": 1556,
+      "name": "Ori",
+      "ra": 73.1333,
+      "dec": 14.2506,
+      "magnitude": 4.74,
+      "spectral_type": "S3.5/1-"
+    },
+    {
+      "hr": 1559,
+      "name": null,
+      "ra": 72.8675,
+      "dec": -34.9064,
+      "magnitude": 5.86,
+      "spectral_type": "A1Vn"
+    },
+    {
+      "hr": 1560,
+      "name": "Eri",
+      "ra": 73.2237,
+      "dec": -5.4528,
+      "magnitude": 4.39,
+      "spectral_type": "F4III+A6III"
+    },
+    {
+      "hr": 1561,
+      "name": null,
+      "ra": 74.0296,
+      "dec": 52.8694,
+      "magnitude": 5.75,
+      "spectral_type": "A2V s"
+    },
+    {
+      "hr": 1562,
+      "name": "Ori",
+      "ra": 73.345,
+      "dec": 2.5081,
+      "magnitude": 5.33,
+      "spectral_type": "M1III"
+    },
+    {
+      "hr": 1563,
+      "name": "Pic",
+      "ra": 72.73,
+      "dec": -53.4614,
+      "magnitude": 5.61,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 1567,
+      "name": "Ori",
+      "ra": 73.5629,
+      "dec": 2.4406,
+      "magnitude": 3.72,
+      "spectral_type": "B3III+B0V"
+    },
+    {
+      "hr": 1568,
+      "name": "Cam",
+      "ra": 74.3217,
+      "dec": 53.7522,
+      "magnitude": 4.47,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 1569,
+      "name": "Ori",
+      "ra": 73.6954,
+      "dec": 11.4261,
+      "magnitude": 5.19,
+      "spectral_type": "A3V"
+    },
+    {
+      "hr": 1570,
+      "name": "Ori",
+      "ra": 73.7242,
+      "dec": 10.1508,
+      "magnitude": 4.65,
+      "spectral_type": "A0Vp"
+    },
+    {
+      "hr": 1571,
+      "name": null,
+      "ra": 73.6992,
+      "dec": 7.7792,
+      "magnitude": 5.33,
+      "spectral_type": "gK1"
+    },
+    {
+      "hr": 1574,
+      "name": null,
+      "ra": 73.7113,
+      "dec": 0.4675,
+      "magnitude": 5.99,
+      "spectral_type": "B5V"
+    },
+    {
+      "hr": 1576,
+      "name": null,
+      "ra": 73.9596,
+      "dec": 15.04,
+      "magnitude": 5.81,
+      "spectral_type": "B9V"
+    },
+    {
+      "hr": 1577,
+      "name": "Aur",
+      "ra": 74.2483,
+      "dec": 33.1661,
+      "magnitude": 2.69,
+      "spectral_type": "K3II"
+    },
+    {
+      "hr": 1579,
+      "name": null,
+      "ra": 73.7783,
+      "dec": -16.7406,
+      "magnitude": 5.7,
+      "spectral_type": "gG9"
+    },
+    {
+      "hr": 1580,
+      "name": "Ori",
+      "ra": 74.0929,
+      "dec": 13.5144,
+      "magnitude": 4.07,
+      "spectral_type": "K2-IIIFe-1"
+    },
+    {
+      "hr": 1581,
+      "name": null,
+      "ra": 73.8275,
+      "dec": -16.4178,
+      "magnitude": 5.72,
+      "spectral_type": "gG4"
+    },
+    {
+      "hr": 1582,
+      "name": "Eri",
+      "ra": 74.1008,
+      "dec": -5.1714,
+      "magnitude": 5.51,
+      "spectral_type": "B6V"
+    },
+    {
+      "hr": 1585,
+      "name": null,
+      "ra": 74.3429,
+      "dec": 17.1536,
+      "magnitude": 5.48,
+      "spectral_type": "gK1"
+    },
+    {
+      "hr": 1586,
+      "name": "Tau",
+      "ra": 74.4529,
+      "dec": 23.9486,
+      "magnitude": 5.79,
+      "spectral_type": "gG8"
+    },
+    {
+      "hr": 1589,
+      "name": null,
+      "ra": 76.1658,
+      "dec": 74.0669,
+      "magnitude": 5.96,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 1590,
+      "name": "Tau",
+      "ra": 74.5392,
+      "dec": 25.0503,
+      "magnitude": 5.81,
+      "spectral_type": "A0V"
+    },
+    {
+      "hr": 1592,
+      "name": "Aur",
+      "ra": 74.8142,
+      "dec": 37.8903,
+      "magnitude": 4.94,
+      "spectral_type": "A1V"
+    },
+    {
+      "hr": 1599,
+      "name": "Aur",
+      "ra": 75.0763,
+      "dec": 39.3947,
+      "magnitude": 5.95,
+      "spectral_type": "F5V"
+    },
+    {
+      "hr": 1601,
+      "name": "Ori",
+      "ra": 74.6371,
+      "dec": 1.7142,
+      "magnitude": 4.47,
+      "spectral_type": "K2-II"
+    },
+    {
+      "hr": 1603,
+      "name": "Cam",
+      "ra": 75.8546,
+      "dec": 60.4422,
+      "magnitude": 4.03,
+      "spectral_type": "G1Ib-IIa"
+    },
+    {
+      "hr": 1604,
+      "name": null,
+      "ra": 74.7554,
+      "dec": -16.3758,
+      "magnitude": 5.66,
+      "spectral_type": "F3V+F9V"
+    },
+    {
+      "hr": 1605,
+      "name": "Aur",
+      "ra": 75.4921,
+      "dec": 43.8233,
+      "magnitude": 2.99,
+      "spectral_type": "F0Iae+B"
+    },
+    {
+      "hr": 1608,
+      "name": "Eri",
+      "ra": 74.96,
+      "dec": -10.2633,
+      "magnitude": 5.38,
+      "spectral_type": "G4V"
+    },
+    {
+      "hr": 1611,
+      "name": "Eri",
+      "ra": 74.9825,
+      "dec": -12.5375,
+      "magnitude": 4.79,
+      "spectral_type": "F0IV"
+    },
+    {
+      "hr": 1612,
+      "name": "Aur",
+      "ra": 75.6196,
+      "dec": 41.0758,
+      "magnitude": 3.75,
+      "spectral_type": "K4II+B8V"
+    },
+    {
+      "hr": 1617,
+      "name": "Eri",
+      "ra": 75.3596,
+      "dec": -7.1739,
+      "magnitude": 4.81,
+      "spectral_type": "B3V"
+    },
+    {
+      "hr": 1618,
+      "name": null,
+      "ra": 75.4596,
+      "dec": 0.7222,
+      "magnitude": 5.92,
+      "spectral_type": "K0"
+    },
+    {
+      "hr": 1620,
+      "name": "Tau",
+      "ra": 75.7738,
+      "dec": 21.59,
+      "magnitude": 4.64,
+      "spectral_type": "A7V"
+    },
+    {
+      "hr": 1621,
+      "name": null,
+      "ra": 75.3567,
+      "dec": -20.0519,
+      "magnitude": 4.91,
+      "spectral_type": "B9.5Vn"
+    },
+    {
+      "hr": 1622,
+      "name": "Cam",
+      "ra": 76.5354,
+      "dec": 58.9725,
+      "magnitude": 5.08,
+      "spectral_type": "B2.5Ve"
+    },
+    {
+      "hr": 1625,
+      "name": null,
+      "ra": 75.6896,
+      "dec": -4.2097,
+      "magnitude": 5.85,
+      "spectral_type": "K3"
+    },
+    {
+      "hr": 1628,
+      "name": null,
+      "ra": 75.5408,
+      "dec": -26.275,
+      "magnitude": 5.02,
+      "spectral_type": "K1III"
+    },
+    {
+      "hr": 1629,
+      "name": "Men",
+      "ra": 73.7967,
+      "dec": -74.9369,
+      "magnitude": 5.47,
+      "spectral_type": "K4III"
+    },
+    {
+      "hr": 1634,
+      "name": "Lep",
+      "ra": 75.6871,
+      "dec": -22.795,
+      "magnitude": 5.75,
+      "spectral_type": "K1IV"
+    },
+    {
+      "hr": 1635,
+      "name": null,
+      "ra": 75.595,
+      "dec": -31.7714,
+      "magnitude": 5.94,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 1637,
+      "name": "Aur",
+      "ra": 76.6692,
+      "dec": 51.5978,
+      "magnitude": 5.0,
+      "spectral_type": "F0V"
+    },
+    {
+      "hr": 1638,
+      "name": "Ori",
+      "ra": 76.1421,
+      "dec": 15.4042,
+      "magnitude": 4.68,
+      "spectral_type": "A0pSi"
+    },
+    {
+      "hr": 1641,
+      "name": "Aur",
+      "ra": 76.6287,
+      "dec": 41.2344,
+      "magnitude": 3.17,
+      "spectral_type": "B3V"
+    },
+    {
+      "hr": 1643,
+      "name": null,
+      "ra": 78.0933,
+      "dec": 73.9467,
+      "magnitude": 5.43,
+      "spectral_type": "B9pSi"
+    },
+    {
+      "hr": 1645,
+      "name": null,
+      "ra": 75.9721,
+      "dec": -24.3878,
+      "magnitude": 5.61,
+      "spectral_type": "A3m"
+    },
+    {
+      "hr": 1649,
+      "name": "Pic",
+      "ra": 75.7025,
+      "dec": -49.1514,
+      "magnitude": 5.38,
+      "spectral_type": "F2V"
+    },
+    {
+      "hr": 1652,
+      "name": "Cae",
+      "ra": 76.1017,
+      "dec": -35.4833,
+      "magnitude": 4.55,
+      "spectral_type": "K3III"
+    },
+    {
+      "hr": 1654,
+      "name": "Lep",
+      "ra": 76.3654,
+      "dec": -22.3711,
+      "magnitude": 3.19,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 1655,
+      "name": null,
+      "ra": 76.3175,
+      "dec": -26.1525,
+      "magnitude": 5.73,
+      "spectral_type": "K2III"
+    },
+    {
+      "hr": 1656,
+      "name": "Tau",
+      "ra": 76.8625,
+      "dec": 18.645,
+      "magnitude": 5.0,
+      "spectral_type": "G4V"
+    },
+    {
+      "hr": 1657,
+      "name": "Eri",
+      "ra": 76.6904,
+      "dec": -4.655,
+      "magnitude": 5.12,
+      "spectral_type": "B9V+A1V"
+    },
+    {
+      "hr": 1658,
+      "name": "Tau",
+      "ra": 76.9517,
+      "dec": 20.4183,
+      "magnitude": 5.3,
+      "spectral_type": "A5V"
+    },
+    {
+      "hr": 1659,
+      "name": "Tau",
+      "ra": 77.0275,
+      "dec": 24.2653,
+      "magnitude": 5.5,
+      "spectral_type": "B2V"
+    },
+    {
+      "hr": 1660,
+      "name": "Tau",
+      "ra": 76.9813,
+      "dec": 21.7047,
+      "magnitude": 5.89,
+      "spectral_type": "B2Ve"
+    },
+    {
+      "hr": 1663,
+      "name": "Pic",
+      "ra": 76.2417,
+      "dec": -49.5778,
+      "magnitude": 5.03,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 1664,
+      "name": "Ori",
+      "ra": 76.9704,
+      "dec": 8.4983,
+      "magnitude": 5.34,
+      "spectral_type": "Am"
+    },
+    {
+      "hr": 1665,
+      "name": null,
+      "ra": 76.8542,
+      "dec": -12.4906,
+      "magnitude": 5.97,
+      "spectral_type": "F7V"
+    },
+    {
+      "hr": 1666,
+      "name": "Eri",
+      "ra": 76.9625,
+      "dec": -5.0864,
+      "magnitude": 2.79,
+      "spectral_type": "A3III"
+    },
+    {
+      "hr": 1668,
+      "name": null,
+      "ra": 77.6788,
+      "dec": 46.9622,
+      "magnitude": 5.68,
+      "spectral_type": "F5V"
+    },
+    {
+      "hr": 1671,
+      "name": null,
+      "ra": 77.0842,
+      "dec": -8.665,
+      "magnitude": 5.78,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1672,
+      "name": "Ori",
+      "ra": 77.3317,
+      "dec": 9.8294,
+      "magnitude": 5.43,
+      "spectral_type": "A2m"
+    },
+    {
+      "hr": 1673,
+      "name": "Eri",
+      "ra": 77.1817,
+      "dec": -4.4561,
+      "magnitude": 5.12,
+      "spectral_type": "F2V"
+    },
+    {
+      "hr": 1674,
+      "name": "Dor",
+      "ra": 76.3775,
+      "dec": -57.4728,
+      "magnitude": 4.72,
+      "spectral_type": "F7V"
+    },
+    {
+      "hr": 1676,
+      "name": "Ori",
+      "ra": 77.425,
+      "dec": 15.5972,
+      "magnitude": 4.82,
+      "spectral_type": "F2IV"
+    },
+    {
+      "hr": 1677,
+      "name": "Men",
+      "ra": 75.6792,
+      "dec": -71.3144,
+      "magnitude": 5.31,
+      "spectral_type": "G8III"
+    },
+    {
+      "hr": 1679,
+      "name": "Eri",
+      "ra": 77.2867,
+      "dec": -8.7542,
+      "magnitude": 4.27,
+      "spectral_type": "B2IVne"
+    },
+    {
+      "hr": 1683,
+      "name": null,
+      "ra": 79.5554,
+      "dec": 73.2681,
+      "magnitude": 5.74,
+      "spectral_type": "A0V"
+    },
+    {
+      "hr": 1684,
+      "name": null,
+      "ra": 77.9233,
+      "dec": 16.0456,
+      "magnitude": 5.18,
+      "spectral_type": "K5III"
+    },
+    {
+      "hr": 1686,
+      "name": null,
+      "ra": 80.6396,
+      "dec": 79.2311,
+      "magnitude": 5.05,
+      "spectral_type": "F6V"
+    },
+    {
+      "hr": 1687,
+      "name": null,
+      "ra": 77.83,
+      "dec": -2.4908,
+      "magnitude": 5.9,
+      "spectral_type": "F5V"
+    },
+    {
+      "hr": 1689,
+      "name": "Aur",
+      "ra": 78.3571,
+      "dec": 38.4844,
+      "magnitude": 4.86,
+      "spectral_type": "A4Vm"
+    },
+    {
+      "hr": 1691,
+      "name": null,
+      "ra": 77.9388,
+      "dec": 1.0369,
+      "magnitude": 5.89,
+      "spectral_type": "G5III"
+    },
+    {
+      "hr": 1693,
+      "name": null,
+      "ra": 77.845,
+      "dec": -11.8492,
+      "magnitude": 5.68,
+      "spectral_type": "M6III"
+    },
+    {
+      "hr": 1695,
+      "name": null,
+      "ra": 76.8917,
+      "dec": -63.3997,
+      "magnitude": 5.2,
+      "spectral_type": "M3III"
+    },
+    {
+      "hr": 1696,
+      "name": "Lep",
+      "ra": 78.0746,
+      "dec": -11.8692,
+      "magnitude": 4.45,
+      "spectral_type": "B8V"
+    },
+    {
+      "hr": 1697,
+      "name": null,
+      "ra": 78.2008,
+      "dec": -6.0572,
+      "magnitude": 5.91,
+      "spectral_type": "G7III"
+    },
+    {
+      "hr": 1698,
+      "name": "Ori",
+      "ra": 78.3229,
+      "dec": 2.8611,
+      "magnitude": 4.46,
+      "spectral_type": "K0.5III"
+    },
+    {
+      "hr": 1702,
+      "name": "Lep",
+      "ra": 78.2329,
+      "dec": -16.2056,
+      "magnitude": 3.31,
+      "spectral_type": "B9IIIpHgMn"
+    },
+    {
+      "hr": 1705,
+      "name": "Lep",
+      "ra": 78.3079,
+      "dec": -12.9414,
+      "magnitude": 4.36,
+      "spectral_type": "B9V"
+    }
+  ]
+}
