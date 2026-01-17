@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "celestial-atlas": {
+      "command": "python3",
+      "args": [
+        "-m",
+        "tower6_bridge.server"
+      ],
+      "cwd": "/Users/joshjames/Downloads/Gemini_1/celestial-atlas-app/mcp-server",
+      "env": {
+        "ATLAS_BASE_URL": "https://celestial-atlas-backend-production.up.railway.app",
+        "VAULT_DIR": "/Users/joshjames/Downloads/Gemini_1/celestial-atlas-app/mcp-server/vault"
+      }
+    }
+  }
+}
