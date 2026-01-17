@@ -47,6 +47,9 @@ export interface AtlasPayload {
   solar_month: number;
   lunar_month: number;
   prime_day: number;
+  S: number;  // Shorthand for solar_month
+  L: number;  // Shorthand for lunar_month
+  P: number;  // Shorthand for prime_day
   gate: Gate;
   pattern: Pattern;
   key_signature: KeySignature;
