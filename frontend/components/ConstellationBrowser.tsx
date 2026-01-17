@@ -118,7 +118,6 @@ export default function ConstellationBrowser({
               backgroundColor: `${gate.color}20`,
               borderColor: gate.color,
               borderWidth: '2px',
-              ringColor: gate.color,
             }}
             title={gate.name}
           >
